@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Vídeos Gravados</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Vídeos Gravados</h1>
+    <div class="filters">
+      <input type="text" id="filter-text" placeholder="Buscar por título ou ID..." />
+      <input type="text" id="filter-recording-id" placeholder="Nº do vídeo" />
+      <select id="filter-month">
+        <option value="">Todos os meses</option>
+      </select>
+    </div>
+    <p id="count" class="count" hidden></p>
+    <p id="status" class="status-msg">Carregando...</p>
+    <table id="table" hidden>
+      <thead>
+        <tr>
+          <th>Nº</th>
+          <th>Data</th>
+          <th>Título</th>
+          <th>ID</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <script src="main.js"></script>
+  <script>init('sync-data/observers.json');</script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+:root {
+  --bg: #f4f5f7;
+  --surface: #ffffff;
+  --border: #dde1e7;
+  --text: #1a1d23;
+  --muted: #6c737e;
+  --accent: #2563eb;
+  --row-hover: #f0f4ff;
+  --dev-bg: #fffbe6;
+  --dev-border: #f0a500;
+  --dev-text: #7a4c00;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* Banner de ambiente de desenvolvimento */
+.dev-banner {
+  background: var(--dev-bg);
+  border-bottom: 3px solid var(--dev-border);
+  color: var(--dev-text);
+  text-align: center;
+  padding: 0.6rem 1rem;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1.75rem 1rem;
+}
+
+h1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  color: var(--text);
+}
+
+/* Filtros */
+.filters {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.filters input,
+.filters select {
+  padding: 0.45rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  font-size: 0.875rem;
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.filters input:focus,
+.filters select:focus {
+  border-color: var(--accent);
+}
+
+#filter-text { flex: 1 1 220px; }
+#filter-recording-id { width: 130px; }
+#filter-month { width: 170px; }
+
+/* Contagem */
+.count {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-bottom: 0.6rem;
+}
+
+/* Mensagens de estado */
+.status-msg {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+.status-msg.error { color: #c0392b; }
+
+/* Tabela */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  font-size: 0.875rem;
+}
+
+thead th {
+  background: var(--bg);
+  padding: 0.55rem 0.85rem;
+  text-align: left;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  border-bottom: 1px solid var(--border);
+}
+
+tbody td {
+  padding: 0.65rem 0.85rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+tbody tr:last-child td { border-bottom: none; }
+tbody tr:hover { background: var(--row-hover); }
+
+.col-rid {
+  white-space: nowrap;
+  font-weight: 700;
+  color: var(--accent);
+  width: 4rem;
+}
+
+.col-date {
+  white-space: nowrap;
+  width: 7rem;
+  color: var(--muted);
+}
+
+.col-title { }
+
+.col-id {
+  white-space: nowrap;
+  font-family: ui-monospace, monospace;
+  font-size: 0.72rem;
+  color: var(--muted);
+  max-width: 11rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
