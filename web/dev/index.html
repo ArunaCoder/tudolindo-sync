@@ -32,7 +32,9 @@
       <tbody id="tbody"></tbody>
     </table>
   </div>
-  <script src="../main.js"></script>
-  <script>init('sync-data-dev/observers.json');</script>
+  <script type="module">
+    import { init } from "../main.js";
+    init("sync-data-dev/observers.json");
+  </script>
 </body>
 </html>

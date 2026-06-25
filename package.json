@@ -1,0 +1,21 @@
+{
+  "name": "tudolindo-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hub de sincronização de dados JSON e página web estática para observadores",
+  "scripts": {
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "format": "biome format --write .",
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.0",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}
