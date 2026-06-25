@@ -1,0 +1,758 @@
+{
+  "ia_agent": "curtas_gemini_3.5_flash_v1",
+  "personas": [
+    {
+      "author_name": "Sérgio",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a ansiedade na busca por metas?",
+          "hook_imperative": "pare de temer o fracasso",
+          "hook_provocative": "o medo de não bater a meta",
+          "id": "0019-3bc8-01",
+          "length": 110,
+          "number": 1,
+          "question": "Marcos O que causa essa agitação interna toda vez que o volume de vendas cai e eu preciso bater a meta do mês?"
+        }
+      ],
+      "persona_hash": "3bc857a84ca3"
+    },
+    {
+      "author_name": "Íris",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "é possível ser calma sob pressão?",
+          "hook_imperative": "liberte-se da gestão mental",
+          "hook_provocative": "a ilusão de controlar a vida",
+          "id": "0019-360f-01",
+          "length": 125,
+          "number": 1,
+          "question": "Como alguém consegue manter a calma na gestão hospitalar se a vida do paciente depende de decisões rápidas e do meu controle?"
+        }
+      ],
+      "persona_hash": "360f1ca2611e"
+    },
+    {
+      "author_name": "Kátia",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "sua história é uma mentira?",
+          "hook_imperative": "abandone a sua personagem",
+          "hook_provocative": "o palco dos seus prazos",
+          "id": "0019-37e5-01",
+          "length": 140,
+          "number": 1,
+          "question": "Marcos Olhando por esse ângulo aí, parece que toda a minha história é uma grande encenação para esconder que estou perdida com esses prazos."
+        }
+      ],
+      "persona_hash": "37e5fcff58b9"
+    },
+    {
+      "author_name": "Elaine",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como trabalhar sem medo?",
+          "hook_imperative": "aja sem a mente alerta",
+          "hook_provocative": "o erro que vive na mente",
+          "id": "0019-8d94-01",
+          "length": 118,
+          "number": 1,
+          "question": "Se o pensamento é quem gera esse estado de alerta constante, como atendo chamados técnicos sem viver no medo de errar?"
+        }
+      ],
+      "persona_hash": "8d943fadc6ce"
+    },
+    {
+      "author_name": "Bryan",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a paz é possível no caos?",
+          "hook_imperative": "saia desse estado de estresse",
+          "hook_provocative": "você busca paz onde não tem",
+          "id": "0019-37f4-01",
+          "length": 107,
+          "number": 1,
+          "question": "Mestre Tô soterrado em relatórios e cobranças, como ter paz se o meu trabalho exige esse nível de estresse?"
+        }
+      ],
+      "persona_hash": "37f4f6a07961"
+    },
+    {
+      "author_name": "Clara",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o cirurgião e o ego",
+          "hook_imperative": "desapegue da identidade",
+          "hook_provocative": "você não é o cirurgião",
+          "id": "0019-578a-01",
+          "length": 123,
+          "number": 1,
+          "question": "Como vou entender que não sou o 'eu' se, numa cirurgia, preciso ter certeza absoluta de quem eu sou e do que estou fazendo?"
+        }
+      ],
+      "persona_hash": "578adac528a1"
+    },
+    {
+      "author_name": "Cleiton",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "você se conhece ou se evita?",
+          "hook_imperative": "volte para dentro de si",
+          "hook_provocative": "a análise que falha em si",
+          "id": "0019-0d12-01",
+          "length": 129,
+          "number": 1,
+          "question": "Marcos Minha mente deu um nó daqueles quando percebi que estou analisando o solo mas não sei nada sobre o que habita aqui dentro."
+        }
+      ],
+      "persona_hash": "0d12f8979a2e"
+    },
+    {
+      "author_name": "Isis",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "criatividade ou sofrimento?",
+          "hook_imperative": "crie sem o medo do prazo",
+          "hook_provocative": "sua criatividade é tóxica",
+          "id": "0019-b494-01",
+          "length": 115,
+          "number": 1,
+          "question": "Como ser criativa e cumprir prazos de entrega se, para fazer isso, eu entro num estado de ansiedade que me consome?"
+        }
+      ],
+      "persona_hash": "b494adabac59"
+    },
+    {
+      "author_name": "Filomena",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como não se envolver?",
+          "hook_imperative": "deixe o sentimento passar",
+          "hook_provocative": "o perigo da identificação",
+          "id": "0019-2d7d-01",
+          "length": 113,
+          "number": 1,
+          "question": "Como permitir que a ansiedade apenas passe sem me envolver, se sou eu que preciso conduzir essas reuniões tensas?"
+        }
+      ],
+      "persona_hash": "2d7dde36c9c5"
+    },
+    {
+      "author_name": "Cristal",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o peso da responsabilidade?",
+          "hook_imperative": "descarregue esse peso",
+          "hook_provocative": "você não carrega o mundo",
+          "id": "0019-fb2c-01",
+          "length": 103,
+          "number": 1,
+          "question": "Se o clima é instável e a safra depende de mim, como não sentir o peso dessa responsabilidade no peito?"
+        }
+      ],
+      "persona_hash": "fb2c2763d208"
+    },
+    {
+      "author_name": "Isaac",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a vida não está nos papéis?",
+          "hook_imperative": "saia do ciclo mental",
+          "hook_provocative": "o loop dos seus processos",
+          "id": "0019-2ef5-01",
+          "length": 109,
+          "number": 1,
+          "question": "Gualberto Quantos existem que vivem presas nesse eterno loop de tribunais achando que a vida está nos papéis?"
+        }
+      ],
+      "persona_hash": "2ef5f0a1fca7"
+    },
+    {
+      "author_name": "Valdir",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que tentamos controlar?",
+          "hook_imperative": "aceite o imprevisível",
+          "hook_provocative": "a ilusão do controle",
+          "id": "0019-48c1-01",
+          "length": 122,
+          "number": 1,
+          "question": "Se o algoritmo decide o resultado das buscas, por que eu sofro tanto querendo controlar algo que não está sob meu comando?"
+        }
+      ],
+      "persona_hash": "48c179fdc15c"
+    },
+    {
+      "author_name": "Priscila",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o vazio persiste?",
+          "hook_imperative": "encare o seu vazio",
+          "hook_provocative": "normas não curam a alma",
+          "id": "0019-0477-01",
+          "length": 120,
+          "number": 1,
+          "question": "Marcos Sem dúvida nenhuma a lei dita o que é certo, mas por que sinto esse vazio absurdo mesmo seguindo todas as normas?"
+        }
+      ],
+      "persona_hash": "04779a8a956c"
+    },
+    {
+      "author_name": "Antonella",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a máscara que esconde a dor?",
+          "hook_imperative": "seja real com sua dor",
+          "hook_provocative": "a farsa do seu cargo",
+          "id": "0019-64e4-01",
+          "length": 111,
+          "number": 1,
+          "question": "Como manter a postura de delegado enquanto sinto por dentro uma ansiedade que não consigo explicar pra ninguém?"
+        }
+      ],
+      "persona_hash": "64e4d0edd877"
+    },
+    {
+      "author_name": "Cláudia",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como silenciar a mente?",
+          "hook_imperative": "silencie a sua história",
+          "hook_provocative": "o grito da sua escrita",
+          "id": "0019-9923-01",
+          "length": 145,
+          "number": 1,
+          "question": "Acredito que as orientações gerais sugerem que eu deva silenciar, mas como fazer isso quando os personagens da minha escrita não param de gritar?"
+        }
+      ],
+      "persona_hash": "9923afb8f37c"
+    },
+    {
+      "author_name": "Émerson",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "como liderar sem controle?",
+          "hook_imperative": "lidere sem exigir nada",
+          "hook_provocative": "o conflito é seu desejo",
+          "id": "0019-16aa-01",
+          "length": 123,
+          "number": 1,
+          "question": "Se toda a gestão de conflitos é só imagem, como vou lidar com minha equipe amanhã sem querer que eles façam o que eu quero?"
+        }
+      ],
+      "persona_hash": "16aaf51d53d1"
+    },
+    {
+      "author_name": "Gorete",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a ansiedade de ensinar?",
+          "hook_imperative": "ensine sem apego ao aluno",
+          "hook_provocative": "sua necessidade de sucesso",
+          "id": "0019-9c42-01",
+          "length": 124,
+          "number": 1,
+          "question": "Marcos Seria ótimo entender mais de como me livrar dessa ansiedade de professor que quer garantir que o aluno aprendeu tudo."
+        }
+      ],
+      "persona_hash": "9c429a6bbed3"
+    },
+    {
+      "author_name": "Wagner",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que registrar a vida?",
+          "hook_imperative": "viva o momento sem lentes",
+          "hook_provocative": "a foto que esconde o medo",
+          "id": "0019-5dc4-01",
+          "length": 114,
+          "number": 1,
+          "question": "Se o evento é passageiro, por que me sinto tão ansioso tentando eternizar cada momento através da lente da câmera?"
+        }
+      ],
+      "persona_hash": "5dc438021b34"
+    },
+    {
+      "author_name": "Luana",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que é descolar da realidade?",
+          "hook_imperative": "volte ao presente real",
+          "hook_provocative": "o trânsito como espelho",
+          "id": "0019-0b93-01",
+          "length": 116,
+          "number": 1,
+          "question": "Mestre Senti um negócio estranho, parecia que eu tava descolando da realidade no trânsito, isso é normal ou é surto?"
+        }
+      ],
+      "persona_hash": "0b93320e97dd"
+    },
+    {
+      "author_name": "Valdemar",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem está decidindo tudo?",
+          "hook_imperative": "quem é você sem o título?",
+          "hook_provocative": "a ilusão do seu cargo",
+          "id": "0019-ab31-01",
+          "length": 105,
+          "number": 1,
+          "question": "Se não existe um 'eu', quem é o líder comunitário que toma todas essas decisões e sofre com as cobranças?"
+        }
+      ],
+      "persona_hash": "ab310304a628"
+    },
+    {
+      "author_name": "Antônio",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a identidade é um nada?",
+          "hook_imperative": "cuide além da ilusão",
+          "hook_provocative": "o cuidado sem identidade",
+          "id": "0019-8899-01",
+          "length": 119,
+          "number": 1,
+          "question": "Mestre Tô com o estômago embrulhado com essa real de que o eu não passa de uma construção, como cuidar de alguém assim?"
+        }
+      ],
+      "persona_hash": "88998a3bb9be"
+    },
+    {
+      "author_name": "Jair",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "presença nas alturas?",
+          "hook_imperative": "esteja onde você pisa",
+          "hook_provocative": "sua mente não está aqui",
+          "id": "0019-349e-01",
+          "length": 122,
+          "number": 1,
+          "question": "Como posso estar presente no voo se minha mente vive cheia de medos sobre o próximo destino ou sobre o que deixei em casa?"
+        }
+      ],
+      "persona_hash": "349edc7bf36b"
+    },
+    {
+      "author_name": "Heitor",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que não aceitamos o nada?",
+          "hook_imperative": "aceite que não sabe",
+          "hook_provocative": "o palhaço da previsão",
+          "id": "0019-e00f-01",
+          "length": 122,
+          "number": 1,
+          "question": "Marcos Alguém mais se sente um palhaço completo tentando prever o amanhã? Por que a gente não aceita que não sabe de nada?"
+        }
+      ],
+      "persona_hash": "e00f4f8296f9"
+    },
+    {
+      "author_name": "Wilson",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a vida sendo drenada?",
+          "hook_imperative": "pare de se drenar",
+          "hook_provocative": "seu trabalho te consome?",
+          "id": "0019-804f-01",
+          "length": 112,
+          "number": 1,
+          "question": "Como atender tantos chamados de suporte técnico mantendo a paciência se sinto que minha vida está sendo drenada?"
+        }
+      ],
+      "persona_hash": "804fad82d4d6"
+    },
+    {
+      "author_name": "Jefferson",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como engajar o outro?",
+          "hook_imperative": "engaje-se com a verdade",
+          "hook_provocative": "sua falta de engajamento",
+          "id": "0019-6b81-01",
+          "length": 131,
+          "number": 1,
+          "question": "Marcos Alguém mais se sente um palhaço completo tentando prever o amanhã? Como engajar pessoas em eventos se nem eu estou engajado?"
+        }
+      ],
+      "persona_hash": "6b817a994753"
+    },
+    {
+      "author_name": "Luciano",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "o evento é uma farsa?",
+          "hook_imperative": "trabalhe sem a farsa",
+          "hook_provocative": "sua farsa corporativa",
+          "id": "0019-fef7-01",
+          "length": 120,
+          "number": 1,
+          "question": "Se comunicação interna é só projeção de imagem, como posso realizar um evento que não seja apenas uma farsa corporativa?"
+        }
+      ],
+      "persona_hash": "fef7d4ca20ee"
+    },
+    {
+      "author_name": "Nilton",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "dá para viver sem pressa?",
+          "hook_imperative": "saia dessa corrida",
+          "hook_provocative": "a corrida contra você",
+          "id": "0019-1724-01",
+          "length": 112,
+          "number": 1,
+          "question": "Mestre A vida hoje virou uma corrida contra o tempo, como vou entregar planilhas sem viver nesse estado ansioso?"
+        }
+      ],
+      "persona_hash": "17246505d9ef"
+    },
+    {
+      "author_name": "Éric",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o aperto no peito é real?",
+          "hook_imperative": "respire fora da mente",
+          "hook_provocative": "a mente contra o corpo",
+          "id": "0019-c771-01",
+          "length": 106,
+          "number": 1,
+          "question": "Se toda pressão técnica que sinto é pura mente, por que sinto meu peito apertado toda vez que abro o Zoom?"
+        }
+      ],
+      "persona_hash": "c77139b67ae0"
+    },
+    {
+      "author_name": "Solange",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "a raiva no trânsito?",
+          "hook_imperative": "veja a raiva sem agir",
+          "hook_provocative": "você não aprendeu nada",
+          "id": "0019-5919-01",
+          "length": 123,
+          "number": 1,
+          "question": "Gualberto Achei que tinha assimilado, mas no trânsito, qualquer fechada me faz sentir uma raiva que me consome. Onde errei?"
+        }
+      ],
+      "persona_hash": "5919bc48c629"
+    },
+    {
+      "author_name": "Gislaine",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o medo de não pagar?",
+          "hook_imperative": "viva além do dinheiro",
+          "hook_provocative": "o desespero financeiro",
+          "id": "0019-6181-01",
+          "length": 88,
+          "number": 1,
+          "question": "Como não me desesperar com as metas de ganho se preciso pagar as contas no final do mês?"
+        }
+      ],
+      "persona_hash": "61811585ec07"
+    },
+    {
+      "author_name": "Elizabete",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como manter a calma?",
+          "hook_imperative": "desconecte-se da cobrança",
+          "hook_provocative": "sua empresa não é você",
+          "id": "0019-99fe-01",
+          "length": 115,
+          "number": 1,
+          "question": "Mestre Senti meu coração acelerar em plena reunião, como manter a calma se a empresa cobra resultados o tempo todo?"
+        }
+      ],
+      "persona_hash": "99fee8c174bb"
+    },
+    {
+      "author_name": "Marlene",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a eficiência gera dor?",
+          "hook_imperative": "liberte-se da sua agenda",
+          "hook_provocative": "a escrava da agenda",
+          "id": "0019-8430-01",
+          "length": 97,
+          "number": 1,
+          "question": "Como ser a secretária eficiente que todos esperam sem que a ansiedade tome conta da minha agenda?"
+        }
+      ],
+      "persona_hash": "8430d417b2c4"
+    },
+    {
+      "author_name": "Cláudia",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "você não é seu corpo?",
+          "hook_imperative": "desidentifique-se do corpo",
+          "hook_provocative": "o corpo não é você",
+          "id": "0019-5526-01",
+          "length": 106,
+          "number": 1,
+          "question": "Por que vocês dizem que não sou o meu corpo, se é ele que sofre fisicamente com o esforço aqui no armazém?"
+        }
+      ],
+      "persona_hash": "55264016d16a"
+    },
+    {
+      "author_name": "Roberto",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o medo de perder tudo?",
+          "hook_imperative": "solte o seu equipamento",
+          "hook_provocative": "seu pavor é ilusório",
+          "id": "0019-8171-01",
+          "length": 109,
+          "number": 1,
+          "question": "Se o voo do drone é só uma imagem, por que sinto tanto pavor de derrubar o equipamento e perder meu dinheiro?"
+        }
+      ],
+      "persona_hash": "817155925a0d"
+    },
+    {
+      "author_name": "Paloma",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "para que serve o satsang?",
+          "hook_imperative": "participe com verdade",
+          "hook_provocative": "o sofrimento é opcional",
+          "id": "0019-c962-01",
+          "length": 120,
+          "number": 1,
+          "question": "Mestre meio q desconfio de por que o mestre sugere participar de satsang quando eu só queria saber como parar de sofrer."
+        }
+      ],
+      "persona_hash": "c962d042e7d7"
+    },
+    {
+      "author_name": "Jussara",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o peso da interpretação?",
+          "hook_imperative": "faça além do seu ego",
+          "hook_provocative": "sua importância é falsa",
+          "id": "0019-a7e3-01",
+          "length": 109,
+          "number": 1,
+          "question": "Como não me sentir ansiosa diante de um laudo, sabendo que a minha interpretação pode mudar a vida de alguém?"
+        }
+      ],
+      "persona_hash": "a7e32ac8fb47"
+    },
+    {
+      "author_name": "Éverton",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "existe paz nos números?",
+          "hook_imperative": "acesse a inteligência real",
+          "hook_provocative": "sua inteligência financeira",
+          "id": "0019-525a-01",
+          "length": 98,
+          "number": 1,
+          "question": "Dá pra acessar essa inteligência real dentro de um escritório enquanto os números estão desabando?"
+        }
+      ],
+      "persona_hash": "525a1f3526f9"
+    },
+    {
+      "author_name": "Laura",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a vida é só perda?",
+          "hook_imperative": "veja a vida além da perda",
+          "hook_provocative": "a ilusão do cartório",
+          "id": "0019-415b-01",
+          "length": 103,
+          "number": 1,
+          "question": "Como trabalhar num cartório, lidando com o fim das coisas o dia todo, sem sentir que a vida é só perda?"
+        }
+      ],
+      "persona_hash": "415b74e83911"
+    },
+    {
+      "author_name": "Luciano",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o preço da admiração?",
+          "hook_imperative": "pare de ser admirado",
+          "hook_provocative": "seu esgotamento mental",
+          "id": "0019-6fa8-01",
+          "length": 105,
+          "number": 1,
+          "question": "É uma descida sem freio rumo ao esgotamento mental por tentar ser o artesão que todos admiram, como paro?"
+        }
+      ],
+      "persona_hash": "6fa89eb89a41"
+    },
+    {
+      "author_name": "Lavínia",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "ansiedade com o clima?",
+          "hook_imperative": "aceite o clima real",
+          "hook_provocative": "você tenta prever tudo",
+          "id": "0019-5d38-01",
+          "length": 105,
+          "number": 1,
+          "question": "Se o clima é algo que não controlo, como não ficar ansiosa quando a previsão diz que tudo vai dar errado?"
+        }
+      ],
+      "persona_hash": "5d38082d69bf"
+    }
+  ],
+  "source_file": "cenario_0019.md",
+  "template_id": "008.md"
+}

@@ -1,0 +1,771 @@
+{
+  "ia_agent": "perguntas_gemini_3.5_flash_v1",
+  "personas": [
+    {
+      "author_name": "Rosângela",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como acalmar a mente quando tudo desaba?",
+          "hook_imperative": "pare de tentar acalmar sua mente",
+          "hook_provocative": "o perigo invisível das meditações guiadas",
+          "id": "0006-3f13-01",
+          "length": 235,
+          "number": 1,
+          "question": "Marcos Você acha que funciona tentar... sei lá, usar uns mantras ou umas meditações guiadas pra acalmar a cabeça quando tudo parece que vai desabar? Ou isso é só mais uma técnica boba que a gente inventa pra não pirar de vez na rotina?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "você está esgotado ou despertando?",
+          "hook_imperative": "esqueça o significado espiritual de tudo",
+          "hook_provocative": "a farsa do misticismo no cansaço diário",
+          "id": "0006-3f13-02",
+          "length": 242,
+          "number": 2,
+          "question": "Tem hora que eu não sei se o que eu vejo é cansaço ou se tô ficando louca... a mente começa a projetar umas coisas estranhas e eu fico tentando achar um significado espiritual pra tudo. Como é que diferencia um esgotamento real de um chamado?"
+        }
+      ],
+      "persona_hash": "3f1300f9cd64"
+    },
+    {
+      "author_name": "Marcos",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o que acontece se você parar de escolher?",
+          "hook_imperative": "liberte-se do peso de ter que decidir",
+          "hook_provocative": "a ilusão do livre-arbítrio nas suas decisões",
+          "id": "0006-ef7c-01",
+          "length": 238,
+          "number": 1,
+          "question": "Tentei aplicar o que você falou e... travei na hora de decidir o rumo do meu trabalho. Se não existe esse 'eu' pra escolher e tudo acontece sozinho, eu sento e espero o prazo estourar? O corpo simplesmente não mexe sem a pressão do prazo."
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o futuro te causa tanto pânico?",
+          "hook_imperative": "encare o medo de errar agora",
+          "hook_provocative": "a armadilha mental por trás das decisões difíceis",
+          "id": "0006-ef7c-02",
+          "length": 217,
+          "number": 2,
+          "question": "Fico horas fritando na cama pensando no pior cenário antes de assinar um contrato... o corpo fica em pânico com o risco de errar. Como dar um passo difícil sabendo que não tenho controle nenhum sobre o que vem amanhã?"
+        }
+      ],
+      "persona_hash": "ef7cfa71b3e2"
+    },
+    {
+      "author_name": "Vanessa",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que é tão difícil aceitar ajuda?",
+          "hook_imperative": "solte a carga que não é sua",
+          "hook_provocative": "o orgulho oculto por trás do seu cansaço",
+          "id": "0006-a170-01",
+          "length": 254,
+          "number": 1,
+          "question": "Marcos O sossego sumiu em definitivo desde que comecei a reparar... no peso que eu carrego nas costas sem pedir ajuda pra ninguém. Fico morta de cansaço, mas se alguém tenta me estender a mão, o corpo rejeita na hora. Por que é tão ruim aceitar um favor?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "você sofre por excesso de responsabilidade?",
+          "hook_imperative": "pare de carregar o mundo nas costas",
+          "hook_provocative": "a ilusão de que você controla a vida alheia",
+          "id": "0006-a170-02",
+          "length": 202,
+          "number": 2,
+          "question": "Eu faço tudo em casa e no trabalho, viro a noite acordada resolvendo os problemas dos outros e no fim me sinto completamente sozinha... como que faz pra viver sem achar que se eu não fizer, ninguém faz?"
+        }
+      ],
+      "persona_hash": "a1704de62b76"
+    },
+    {
+      "author_name": "Cíntia",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "é possível ter resultados sem controle?",
+          "hook_imperative": "abandone a ilusão do controle corporativo",
+          "hook_provocative": "a neurose de controle no seu trabalho",
+          "id": "0006-7d9d-01",
+          "length": 229,
+          "number": 1,
+          "question": "Gualberto Acho perigoso demais... esse papo de sumir com o pensamento. Se eu não usar a cabeça pra antecipar os erros da equipe e cobrar entrega, o projeto afunda. Como entrega um resultado de alto nível sem esse controle rígido?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "o que acontece quando ignoram você?",
+          "hook_imperative": "não dependa da validação dos outros",
+          "hook_provocative": "a humilhação que revela a sua vaidade",
+          "id": "0006-7d9d-02",
+          "length": 223,
+          "number": 2,
+          "question": "Fiquei invisível num lugar que paguei caro, o sangue subiu e a sensação de desrespeito estragou meu dia... o corpo treme só de lembrar do descaso. O que sobra da gente quando o ambiente de fora não valida nossa importância?"
+        }
+      ],
+      "persona_hash": "7d9d285fc2be"
+    },
+    {
+      "author_name": "Ana",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como encarar a dor sem sofrimento?",
+          "hook_imperative": "pare de lutar contra o seu corpo",
+          "hook_provocative": "o truque da mente na rejeição da dor",
+          "id": "0006-e1b9-01",
+          "length": 228,
+          "number": 1,
+          "question": "Mestre Na teoria funciona... mas na prática o corpo queima o dia inteiro e a mente não para de buscar um remédio, um culpado, uma saída. Como olhar pra esse desconforto físico sem a neura de querer que ele suma a qualquer custo?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "sua mente está te adoecendo?",
+          "hook_imperative": "corte o ciclo de pensamentos hipocondríacos",
+          "hook_provocative": "a obsessão por diagnósticos que destrói a paz",
+          "id": "0006-e1b9-02",
+          "length": 226,
+          "number": 2,
+          "question": "Eu acordo com o corpo travado e a cabeça já começa a listar os exames que faltam fazer... é uma busca infinita por um diagnóstico que me dê paz. O que a gente faz quando o próprio pensamento se torna o maior carrasco da saúde?"
+        }
+      ],
+      "persona_hash": "e1b9ea23a0a3"
+    },
+    {
+      "author_name": "Isis",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você precisa de tanta ordem?",
+          "hook_imperative": "encare o vazio que você esconde",
+          "hook_provocative": "a farsa das aparências perfeitas na estante",
+          "id": "0006-f280-01",
+          "length": 275,
+          "number": 1,
+          "question": "Marcos Como é que aguenta... conviver com as coisas incompletas, com os vazios na rotina? Eu me pego tentando manter as aparências na estante e na vida, organizando tudo milimetricamente pra não encarar que falta algo por dentro. De onde vem essa necessidade de ordem visual?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o apego às coisas está te sufocando?",
+          "hook_imperative": "aceite a impermanência do seu cenário",
+          "hook_provocative": "o medo do desapego nas pequenas coisas",
+          "id": "0006-f280-02",
+          "length": 208,
+          "number": 2,
+          "question": "Se eu vejo um objeto quebrado ou um plano que mudou de última hora, o peito aperta... parece que a vida perde a continuidade se o cenário muda. Como ficar em paz vendo as coisas se desfazendo diante da gente?"
+        }
+      ],
+      "persona_hash": "f280cf1965dc"
+    },
+    {
+      "author_name": "Juliana",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como viver o agora na correria diária?",
+          "hook_imperative": "abandone a desculpa da falta de tempo",
+          "hook_provocative": "a desculpa dos boletos contra o despertar",
+          "id": "0006-10e3-01",
+          "length": 272,
+          "number": 1,
+          "question": "Mestre Acho um pouco perigoso esse discurso de que nada importa para quem... tem contas pra pagar e um evento inteiro pra botar de pé. Se eu adotar essa postura, o fornecedor atrasa, a festa cai e o prejuízo vem pro meu nome. Como conciliar o agora com a correria prática?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você não consegue ficar quieta?",
+          "hook_imperative": "pare a correria e encare o tédio",
+          "hook_provocative": "o vício em ocupação que mascara o vazio",
+          "id": "0006-10e3-02",
+          "length": 229,
+          "number": 2,
+          "question": "Passo o mês inteiro correndo contra o relógio, organizando cronogramas, e quando o evento acaba fica um tédio esquisito... a cabeça já pula pro próximo contrato pra não parar. O que a gente tá tentando preencher com tanta pressa?"
+        }
+      ],
+      "persona_hash": "10e395afe137"
+    },
+    {
+      "author_name": "Luciano",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a teoria intelectual não te salva?",
+          "hook_imperative": "esqueça os conceitos e olhe o fato",
+          "hook_provocative": "a arrogância espiritual dos estudiosos da mente",
+          "id": "0006-fef7-01",
+          "length": 288,
+          "number": 1,
+          "question": "Marcos Sem dúvida nenhuma, o maior obstáculo é o apego ao... conhecimento acumulado, aos livros que li e aos conceitos que estudo. Eu passo o dia analisando o mecanismo da mente, mas na hora da crise, viro um poço de reatividade. De que adianta entender a teoria se o corpo repete o erro?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "você está apenas dissecando seu sofrimento?",
+          "hook_imperative": "pare de analisar sua própria mente",
+          "hook_provocative": "o perigo de transformar autoconhecimento em tese",
+          "id": "0006-fef7-02",
+          "length": 245,
+          "number": 2,
+          "question": "Eu fico mapeando minhas próprias reações como se fosse um experimento, tentando classificar cada pensamento... mas a confusão continua exatamente igual aqui dentro. Como que para de intelectualizar o sofrimento pra conseguir só viver o instante?"
+        }
+      ],
+      "persona_hash": "fef7d4ca20ee"
+    },
+    {
+      "author_name": "Janete",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o isolamento espiritual é uma fuga?",
+          "hook_imperative": "saia do seu castelo de conceitos",
+          "hook_provocative": "a armadilha da reclusão que enrijece a mente",
+          "id": "0006-53a9-01",
+          "length": 277,
+          "number": 1,
+          "question": "Marcos Consegui finalmente... me afastar do barulho do mundo, cortei as relações supérfluas e me isolei no meu canto pra estudar. Mas percebo que esse isolamento gerou uma rigidez danada, qualquer interação informal me deixa travada. Essa reclusão não é só mais uma fuga sutil?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "as palavras litúrgicas te afastam de deus?",
+          "hook_imperative": "abandone o debate etimológico agora",
+          "hook_provocative": "a erudição vazia que esconde a ignorância",
+          "id": "0006-53a9-02",
+          "length": 239,
+          "number": 2,
+          "question": "Eu passo horas debatendo os termos litúrgicos, buscando a raiz exata da palavra pra tentar achar a verdade... mas no fim do dia o vazio existencial continua intocado. O conhecimento acadêmico da liturgia bloqueia o verdadeiro experimentar?"
+        }
+      ],
+      "persona_hash": "53a9e3f976a2"
+    },
+    {
+      "author_name": "Jhonatan",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "medo de desperdiçar a única vida que tem?",
+          "hook_imperative": "arrisque a segurança pela vida real",
+          "hook_provocative": "a armadilha do conforto que anestesia sua existência",
+          "id": "0006-f1cc-01",
+          "length": 273,
+          "number": 1,
+          "question": "as veses acho que nao estou pronto para... abrir mão das minhas pequenas seguranças cotidianas. Tenho um medo absurdo de acordar velho e ver que passei a vida num emprego morno, sem graça, mas o corpo gela só de pensar em largar o garantido. O que que quebra essa mornidão?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você está esperando o futuro para viver?",
+          "hook_imperative": "desperte da mornidão hoje mesmo",
+          "hook_provocative": "a ilusão do amanhã que cria uma vida sem graça",
+          "id": "0006-f1cc-02",
+          "length": 233,
+          "number": 2,
+          "question": "A rotina tá engolindo meus dias, tudo parece cinza e repetitivo... eu fico esperando um estalo, uma grande mudança acontecer no futuro pra eu começar a viver de verdade. Como sair dessa espera passiva se a mente só quer continuidade?"
+        }
+      ],
+      "persona_hash": "f1cc9947722c"
+    },
+    {
+      "author_name": "Cláudia",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a prosperidade dos outros te incomoda?",
+          "hook_imperative": "pare de se comparar com o feed alheio",
+          "hook_provocative": "a inveja oculta na comparação das redes sociais",
+          "id": "0006-5526-01",
+          "length": 261,
+          "number": 1,
+          "question": "Como aguenta o tranco de ver todo mundo prosperando enquanto eu... sinto que tô empacada no mesmo lugar, patinando pra pagar as contas? Olho o feed e dá uma queimação de inveja, parece que a vida dos outros anda e a minha tá travada. Como limpa esse sentimento?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a busca por dinheiro está destruindo sua paz?",
+          "hook_imperative": "encontre o sossego antes do sucesso",
+          "hook_provocative": "a farsa de que a prosperidade traz liberdade",
+          "id": "0006-5526-02",
+          "length": 235,
+          "number": 2,
+          "question": "Eu fico planejando o dia em que vou deslanchar financeiramente, achando que a paz só vem quando a conta bancária tiver cheia... mas a busca não para nunca. Essa ansiedade por progresso constante não é o que me impede de sossegar agora?"
+        }
+      ],
+      "persona_hash": "55264016d16a"
+    },
+    {
+      "author_name": "Rosana",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como perder o medo do desaparecimento?",
+          "hook_imperative": "aceite o fim de todas as suas memórias",
+          "hook_provocative": "a ilusão de continuidade que alimenta o medo da morte",
+          "id": "0006-44d7-01",
+          "length": 272,
+          "number": 1,
+          "question": "Notei o baque depois de... perder um parente próximo e ver que a gente passa os dias juntando coisas que vão ficar pra trás. Dá um aperto no peito pensar no meu próprio fim, a mente tenta achar um jeito de garantir que algo continue. Como perder o medo do desaparecimento?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a morte te assusta mais que o sono?",
+          "hook_imperative": "encare o fim do controle agora",
+          "hook_provocative": "o truque mental nas imagens que você faz da morte",
+          "id": "0006-44d7-02",
+          "length": 215,
+          "number": 2,
+          "question": "A gente vai dormir e larga tudo sem problema nenhum, mas pensar na morte dá um pânico horrível... o pensamento cria mil imagens de perdas particulares. Como desarmar essa imaginação que assusta o corpo com o amanhã?"
+        }
+      ],
+      "persona_hash": "44d727808277"
+    },
+    {
+      "author_name": "Tereza",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "seu parceiro é sua bengala emocional?",
+          "hook_imperative": "corte a dependência afetiva agora",
+          "hook_provocative": "o perigo invisível de projetar sua segurança no outro",
+          "id": "0006-8241-01",
+          "length": 272,
+          "number": 1,
+          "question": "Gualberto meio q o tranco da vida justifica por que o mestre sugere participar de satsang... mas na real eu sinto que se meu companheiro não estivesse do meu lado pra segurar a barra emocional, eu não aguentaria a travessia. Essa dependência total do outro não é perigosa?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "medo de envelhecer na solidão?",
+          "hook_imperative": "aprenda a caminhar sem bengalas afetivas",
+          "hook_provocative": "a ilusão romântica como refúgio do vazio existencial",
+          "id": "0006-8241-02",
+          "length": 233,
+          "number": 2,
+          "question": "Dá um pânico doido pensar em envelhecer sozinha, sem ninguém pra cuidar do corpo ou dar apoio nas crises... a mente se agarra na relação como única salvação pro futuro. Como ter firmeza interna sem precisar de uma garantia romântica?"
+        }
+      ],
+      "persona_hash": "82419a29883c"
+    },
+    {
+      "author_name": "Benjamin",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que falta quando você já tem tudo?",
+          "hook_imperative": "pare de buscar preenchimento nas conquistas",
+          "hook_provocative": "o vazio oculto no topo do sucesso material",
+          "id": "0006-8616-01",
+          "length": 257,
+          "number": 1,
+          "question": "Mestre as veses da medo pq nao estou sentindo... aquela satisfação que todo mundo diz que o sucesso traz. Consegui a carreira estável, a casa, o conforto prático, mas tem um incômodo de fundo que não passa. O que falta quando a gente parece que já tem tudo?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "você sabe como ficar em silêncio?",
+          "hook_imperative": "esqueça o que aprendeu e apenas observe",
+          "hook_provocative": "o analfabetismo interno dos profissionais de sucesso",
+          "id": "0006-8616-02",
+          "length": 243,
+          "number": 2,
+          "question": "Eu passei a vida inteira aprendendo matérias, técnicas e profissões, mas sinto que nunca aprendi a ficar em silêncio comigo mesmo... a cabeça continua barulhenta. Como inicia esse aprendizado de olhar pro agora sem usar as fórmulas do passado?"
+        }
+      ],
+      "persona_hash": "8616088abb38"
+    },
+    {
+      "author_name": "Brenda",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "inveja do sucesso do próprio parceiro?",
+          "hook_imperative": "pare de competir com quem você ama",
+          "hook_provocative": "a competição destrutiva nos relacionamentos modernos",
+          "id": "0006-62e8-01",
+          "length": 275,
+          "number": 1,
+          "question": "Marcos Gente, vocês também sentem... uma queimação esquisita por dentro quando o namorado deslancha no trabalho e a gente fica estagnada? Eu devia torcer por ele, mas o pensamento fica me cobrando que tô ficando pra trás na corrida da vida. Como para essa competição doentia?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que o status do outro te incomoda?",
+          "hook_imperative": "encare o medo de ficar para trás",
+          "hook_provocative": "a dependência psicológica mascarada de amor",
+          "id": "0006-62e8-02",
+          "length": 221,
+          "number": 2,
+          "question": "Eu fico monitorando os passos do parceiro, comparando o crescimento dele com o meu e cobrando atenção o tempo todo... é um desgaste sem fim pro casal. De onde vem essa necessidade de se validar através do status do outro?"
+        }
+      ],
+      "persona_hash": "62e8f522bf04"
+    },
+    {
+      "author_name": "Cecília",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "como manter a calma no caos familiar?",
+          "hook_imperative": "pare de tentar harmonizar as discussões",
+          "hook_provocative": "o desgaste invisível de tentar salvar sua família",
+          "id": "0006-7a77-01",
+          "length": 265,
+          "number": 1,
+          "question": "Mestre É triste ver como a gente se tortura por causa de... briga de família no almoço de domingo. O sangue esquenta, todo mundo grita e eu perco a cabeça tentando acalmar os ânimos dos parentes. Como manter o silêncio interno quando o ambiente tá um caos completo?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "você tem a necessidade de salvar o mundo?",
+          "hook_imperative": "abandone a obrigação de resolver tudo",
+          "hook_provocative": "a vaidade oculta no papel de líder e ajudante",
+          "id": "0006-7a77-02",
+          "length": 226,
+          "number": 2,
+          "question": "Eu sinto uma obrigação enorme de resolver os problemas da comunidade, de intervir em cada discussão pra botar ordem... mas o corpo tá exausto. O que me empurra a querer ser a salvadora de tudo, se no fim eu continuo frustrada?"
+        }
+      ],
+      "persona_hash": "7a777e62260d"
+    },
+    {
+      "author_name": "Robson",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a não dualidade gerou apatia em você?",
+          "hook_imperative": "desperte da armadilha da autoanulação",
+          "hook_provocative": "a distorção mental que confunde desapego com depressão",
+          "id": "0006-9d51-01",
+          "length": 269,
+          "number": 1,
+          "question": "Mestre Como superar essa fase de... autoanulação total onde parece que meus desejos sumiram, mas ficou só uma apatia cinza no lugar? Eu ouço sobre a não dualidade e a mente distorce isso pra justificar que não vale a pena fazer nada no dia a dia. Como sai desse buraco?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "você está sendo espiritual ou apenas covarde?",
+          "hook_imperative": "pare de engolir sapo em nome do ego",
+          "hook_provocative": "o falso desapego que esconde o medo do confronto",
+          "id": "0006-9d51-02",
+          "length": 219,
+          "number": 2,
+          "question": "Eu ando aceitando desaforo no trabalho e engolindo sapo achando que tô sendo espiritualizado e livre do ego... mas sinto uma amargura enorme por dentro. Esse conformismo passivo não é só medo de se posicionar na rotina?"
+        }
+      ],
+      "persona_hash": "9d51acaee506"
+    },
+    {
+      "author_name": "Sebastião",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "os astros realmente justificam seu comportamento?",
+          "hook_imperative": "pare de culpar os signos pelos seus erros",
+          "hook_provocative": "a desculpa do horóscopo para não encarar a si mesmo",
+          "id": "0006-9ece-01",
+          "length": 243,
+          "number": 1,
+          "question": "Gualberto Vale lembrar que... a própria astrologia explica esses nossos impulsos e desordens emocionais de acordo com o mapa de cada um. Fica mais fácil lidar com a crise sabendo que é uma influência do trânsito planetário da semana, não acha?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que você precisa rotular todo mundo?",
+          "hook_imperative": "encare as pessoas além dos rótulos",
+          "hook_provocative": "a obsessão por controle através da astrologia",
+          "id": "0006-9ece-02",
+          "length": 248,
+          "number": 2,
+          "question": "Eu fico rotulando a personalidade de todo mundo que conheço pelo signo pra tentar prever como vão agir e não ter surpresas... mas os relacionamentos continuam dando errado. Reduzir o outro a quatro linhas do horóscopo não é só medo do imprevisível?"
+        }
+      ],
+      "persona_hash": "9ece8cca0782"
+    },
+    {
+      "author_name": "Giovanna",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o envelhecimento do corpo te causa pânico?",
+          "hook_imperative": "aceite o declínio natural do seu corpo",
+          "hook_provocative": "a neurose da juventude eterna no espelho",
+          "id": "0006-d191-01",
+          "length": 277,
+          "number": 1,
+          "question": "Gualberto É fato que... o envelhecimento do corpo assusta demais quem trabalha com estética. Eu passo o dia inteiro tentando congelar o tempo na pele das clientes, mas olho no espelho e vejo o tempo passando pra mim também. Como lidar com essa perda de controle sobre a imagem?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você tem tanta pressa do amanhã?",
+          "hook_imperative": "pare de correr atrás do próximo ano",
+          "hook_provocative": "a ilusão do descanso que nunca chega no futuro",
+          "id": "0006-d191-02",
+          "length": 232,
+          "number": 2,
+          "question": "Eu vivo correndo atrás de novas técnicas, planejando a expansão da clínica pro ano que vem, achando que lá na frente vou poder descansar de verdade... mas a pressa não passa nunca. O que a gente tá tentando adiar com tanta correria?"
+        }
+      ],
+      "persona_hash": "d1916d162f18"
+    },
+    {
+      "author_name": "Antonella",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "a neurociência consegue curar sua angústia?",
+          "hook_imperative": "pare de usar a ciência como escudo",
+          "hook_provocative": "o uso de termos científicos para blindar o ego",
+          "id": "0006-8a0f-01",
+          "length": 287,
+          "number": 1,
+          "question": "me ajuda ai pq ta dificil parar de... racionalizar tudo. A neurociência explica que o cérebro funciona por sinapses mecânicas e estatísticas de sobrevivência, então tudo é só química. Se o 'eu' é só um subproduto neurológico, de onde vem essa angústia existencial que a ciência não cura?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "sua inteligência está te impedindo de despertar?",
+          "hook_imperative": "solte os dados acadêmicos e apenas sinta",
+          "hook_provocative": "a arrogância científica que esconde o medo do vazio",
+          "id": "0006-8a0f-02",
+          "length": 241,
+          "number": 2,
+          "question": "Eu uso dados, estatísticas e artigos científicos pra justificar todas as minhas reações e provar que tô certa nos debates... mas continuo reativa e irritada por dentro. Essa blindagem intelectual toda não é só pra não assumir que tô perdida?"
+        }
+      ],
+      "persona_hash": "8a0f078545c1"
+    },
+    {
+      "author_name": "Raquel",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "até onde vai a sua fidelidade cega?",
+          "hook_imperative": "abra os olhos para a fraude do seu mestre",
+          "hook_provocative": "o perigo de defender mentores diante das fraudes",
+          "id": "0006-4711-01",
+          "length": 262,
+          "number": 1,
+          "question": "Essa parte que você soltou sobre... a quebra das ilusões me fez pensar. Estão atacando meu mentor na internet com prints e acusações, mas eu sinto que isso é só uma provação da nossa fé pra ver quem fica até o fim. Não devemos defender quem nos trouxe o caminho?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que você tem tanto medo de estar errada?",
+          "hook_imperative": "encare a verdade sem medo de perder o grupo",
+          "hook_provocative": "a negação da realidade em nome de uma seita",
+          "id": "0006-4711-02",
+          "length": 249,
+          "number": 2,
+          "question": "Eu sinto uma necessidade absurda de pertencer a esse grupo espiritual, a ponto de ignorar os alertas das pessoas de fora e atacar quem critica... o corpo fica tenso só de pensar em estar errada. Essa defesa ferrenha não é só medo de perder meu chão?"
+        }
+      ],
+      "persona_hash": "4711af35b60a"
+    },
+    {
+      "author_name": "Ágatha",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "visualizar a riqueza realmente funciona?",
+          "hook_imperative": "esqueça as fórmulas de criar riqueza",
+          "hook_provocative": "a farsa do pensamento criativo na lei da atração",
+          "id": "0006-8dba-01",
+          "length": 256,
+          "number": 1,
+          "question": "Mestre Como meditar... se os livros ensinam que o pensamento criativo e focado atrai a riqueza e molda a substância amorfa do universo? Se eu parar de projetar o progresso material e ficar só no presente, eu não vou acabar estagnada na escassez financeira?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "sua gratidão é real ou apenas uma barganha?",
+          "hook_imperative": "pare de tentar manipular o universo",
+          "hook_provocative": "a neurose do progresso constante que adoece o corpo",
+          "id": "0006-8dba-02",
+          "length": 261,
+          "number": 2,
+          "question": "Eu passo o dia forçando uma gratidão mecânica e agindo de uma 'certa maneira' pra atrair o sucesso, mas por dentro sinto uma ansiedade tremenda de faltar dinheiro... o corpo tá esgotado de tanta cobrança. Como desarmar esse mecanismo de barganha com o universo?"
+        }
+      ],
+      "persona_hash": "8dbab905c24b"
+    },
+    {
+      "author_name": "Ágatha",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "existe uma evolução espiritual para a humanidade?",
+          "hook_imperative": "abandone a utopia da consciência supramental",
+          "hook_provocative": "a ilusão de divinizar a matéria através do yoga",
+          "id": "0006-2a0d-01",
+          "length": 265,
+          "number": 1,
+          "question": "Mestre Faltou pé no chão sobre... a transformação da matéria. As leituras dizem que a evolução humana caminha para a descida de uma consciência supramental que vai divinizar o corpo e a mente. Falar que o 'eu' não existe não corta essa evolução espiritual da terra?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "sua busca espiritual é apenas uma fuga da rotina?",
+          "hook_imperative": "encare a chatice do seu cotidiano agora",
+          "hook_provocative": "o perigo das filosofias complexas que te tiram do chão",
+          "id": "0006-2a0d-02",
+          "length": 267,
+          "number": 2,
+          "question": "Eu fico focada nessa ideia de entregar meu corpo pra uma transformação divina futura, mas no cotidiano não aguento a chatice do meu emprego e a irritação com as pessoas... a mente vive na viagem da teoria. Essa busca espiritual complexa não é só rejeição do presente?"
+        }
+      ],
+      "persona_hash": "2a0d3c7dd6d8"
+    },
+    {
+      "author_name": "Nelson",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o que sobra da meditação se tirar os rituais?",
+          "hook_imperative": "solte os altares e encare o espaço vazio",
+          "hook_provocative": "a armadilha da devoção religiosa que foca no ego",
+          "id": "0006-164f-01",
+          "length": 271,
+          "number": 1,
+          "question": "Marcos nada haver com o que eu achava que era... a meditação. Eu passava horas fazendo rituais hindus e mentalizando os mantras pra achar um centro de paz, mas você diz que a meditação real é o espaço sem centro nenhum. Se tirar a minha devoção e os altares, o que sobra?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante",
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "sua religião está blindando o seu ego?",
+          "hook_imperative": "saia da roupagem espiritualizada",
+          "hook_provocative": "a farsa da postura sagrada que esconde a reatividade",
+          "id": "0006-164f-02",
+          "length": 247,
+          "number": 2,
+          "question": "Eu fico tentando segurar uma postura sagrada e ler as escrituras antigas pra me sentir protegido do barulho do mundo... mas a irritação com a família continua igual. Essa roupagem religiosa toda não é só um escudo pra não olhar pras minhas falhas?"
+        }
+      ],
+      "persona_hash": "164fa3b3eb60"
+    },
+    {
+      "author_name": "Cristal",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como manter a clareza sob pressão financeira?",
+          "hook_imperative": "pare de misturar conceitos com o fato bruto",
+          "hook_provocative": "a ilusão de gerenciar a vida no meio do caos comercial",
+          "id": "0006-fb2c-01",
+          "length": 274,
+          "number": 1,
+          "question": "Mestre No meu processo de autoconhecimento... eu fico tentando aplicar esses conceitos abstratos na gestão do agronegócio, mas o mercado é bruto, a safra depende do clima e a pressão financeira é real. Como ter uma visão clara se a confusão da fazenda toma todo o meu tempo?"
+        },
+        {
+          "domains": [
+            "financeiro-material"
+          ],
+          "hook_curiosity": "o medo do prejuízo está controlando seus dias?",
+          "hook_imperative": "encare o risco sem adoecer a mente",
+          "hook_provocative": "a neurose de controle na gestão dos seus negócios",
+          "id": "0006-fb2c-02",
+          "length": 240,
+          "number": 2,
+          "question": "Eu passo o dia inteiro cobrando resultados dos funcionários e monitorando os riscos da safra, morrendo de medo de ter prejuízo... a cabeça não desliga nem na hora de dormir. Como aceitar a impermanência se um erro no prazo quebra a empresa?"
+        }
+      ],
+      "persona_hash": "fb2c2763d208"
+    }
+  ],
+  "source_file": "cenario_0006.md",
+  "template_id": "003.md"
+}

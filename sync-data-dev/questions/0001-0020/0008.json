@@ -1,0 +1,594 @@
+{
+  "ia_agent": "perguntas_gemini_3.5_flash_v1",
+  "personas": [
+    {
+      "author_name": "Hamilton",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que tentar silenciar a mente só cria mais barulho?",
+          "hook_imperative": "pare de tentar controlar seus pensamentos agora",
+          "hook_provocative": "o erro fatal de quem tenta forçar o foco no presente",
+          "id": "0008-1730-01",
+          "length": 290,
+          "number": 1,
+          "question": "mais e aquela parada que eu li sobre nao... sei lá, botar a mente pra aquietar e focar no agora pra conseguir evoluir? Fico tentando me concentrar na meditação pra ver se acho essa paz que você falou, mas a cabeça não para... como faz pra desligar esse falatório e esvaziar tudo de verdade?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que realmente resta quando seus pensamentos desaparecem?",
+          "hook_imperative": "descubra a realidade além do seu monólogo interno",
+          "hook_provocative": "a ilusão macabra por trás do seu medo de perder o controle",
+          "id": "0008-1730-02",
+          "length": 189,
+          "number": 2,
+          "question": "Se tudo que eu sinto e penso é só coisa da minha cabeça, o que sobra de verdade quando o pensamento para? Dá um medo esquisito... como é que fica o dia a dia se a gente larga esse controle?"
+        }
+      ],
+      "persona_hash": "17304fa1875d"
+    },
+    {
+      "author_name": "Israel",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "de quem é a vida que você acha que está controlando?",
+          "hook_imperative": "abra mão da ilusão de que você é o dono do seu corpo",
+          "hook_provocative": "a verdade chocante sobre quem paga as suas contas",
+          "id": "0008-d546-01",
+          "length": 228,
+          "number": 1,
+          "question": "Gualberto Fiquei desconfiado quanto a... esse negócio de que a gente não tem nada. Se eu não tenho meu corpo e nem minhas coisas, quem é que tá trabalhando todo dia pra pagar os boletos e cuidar da família? É tudo mentira então?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que fugir do desconforto só aumenta o seu sofrimento?",
+          "hook_imperative": "encare o seu desconforto sem dar um nome a ele",
+          "hook_provocative": "o mecanismo oculto que transforma dor em ansiedade crônica",
+          "id": "0008-d546-02",
+          "length": 176,
+          "number": 2,
+          "question": "Quando o aperto vem e o peito aperta de ansiedade pelo amanhã, o que eu faço com esse aperto sem tentar fugir? Como que dá pra ficar em paz com o corpo travando de preocupação?"
+        }
+      ],
+      "persona_hash": "d5463bb4cf2a"
+    },
+    {
+      "author_name": "Antônio",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que os relacionamentos amorosos sempre terminam em conflito?",
+          "hook_imperative": "pare de usar o outro para preencher o seu vazio",
+          "hook_provocative": "a inveja e o egoísmo ocultos no seu desejo de ser amado",
+          "id": "0008-1057-01",
+          "length": 238,
+          "number": 1,
+          "question": "Marcos Caiu a ficha de um jeito violento quando você explicou que... a gente só se aproxima das pessoas por barganha. Mas se o casamento é só interesse e cobrança de lado a lado, como é que duas pessoas conseguem conviver sem se destruir?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o perigo invisível de viver preso nos planos para o amanhã",
+          "hook_imperative": "abandone os projetos mentais e foque na ação prática",
+          "hook_provocative": "como a sua obsessão por segurança destrói a ação presente",
+          "id": "0008-1057-02",
+          "length": 209,
+          "number": 2,
+          "question": "Eu passo o dia inteiro planejando o futuro da minha empresa pra não quebrar, e você diz que o amanhã é fantasia... se eu parar de projetar, o negócio desaba. Como trabalhar sem essa neura do que vai acontecer?"
+        }
+      ],
+      "persona_hash": "1057b1963d33"
+    },
+    {
+      "author_name": "Lavínia",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que buscar reconhecimento nos outros sempre gera dor?",
+          "hook_imperative": "corte a necessidade de ser importante para os outros",
+          "hook_provocative": "a farsa da bondade que espera algo em troca",
+          "id": "0008-5d38-01",
+          "length": 229,
+          "number": 1,
+          "question": "Alguém tem uma dica para... parar de sofrer quando as pessoas que a gente ama decepcionam a gente? Parece que quanto mais eu tento fazer o bem na igreja e em casa, mais eu sou esquecida... o que falta pra achar o verdadeiro amor?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o erro das religiões ao prometer a paz num futuro distante",
+          "hook_imperative": "encontre a realidade divina fora do campo do tempo",
+          "hook_provocative": "por que o deus da sua mente é apenas uma projeção falha",
+          "id": "0008-5d38-02",
+          "length": 198,
+          "number": 2,
+          "question": "Fiquei pensando nessa parada sobre Deus não estar no futuro... a vida inteira me ensinaram a rezar esperando alcançar a salvação lá na frente. Se o amanhã não existe, pra onde vão as nossas orações?"
+        }
+      ],
+      "persona_hash": "5d38082d69bf"
+    },
+    {
+      "author_name": "Íris",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que causa a angústia oculta quando tudo vai bem na vida?",
+          "hook_imperative": "encare a insatisfação crônica da sua mente agora",
+          "hook_provocative": "a ilusão do conforto que não consegue preencher o seu vazio",
+          "id": "0008-ba34-01",
+          "length": 208,
+          "number": 1,
+          "question": "Marcos Tô vivendo bem... financeiramente e com a família tudo certo, mas no fim do dia vem um tédio esquisito, um vazio que parece que tá faltando algo. Se tá tudo bem por fora, de onde vem essa insatisfação?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que dar nome aos seus sentimentos te mantém prisioneiro?",
+          "hook_imperative": "apenas observe suas reações sem tentar mudar nada",
+          "hook_provocative": "o truque do pensamento para controlar seus estados internos",
+          "id": "0008-ba34-02",
+          "length": 190,
+          "number": 2,
+          "question": "Eu percebo que fico rotulando tudo que sinto... se acordo meio triste, já procuro um motivo ou um culpado na rotina. Como que dá pra só olhar pras reações sem tentar consertar o que tá ruim?"
+        }
+      ],
+      "persona_hash": "ba343368f6c7"
+    },
+    {
+      "author_name": "Débora",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que sua mente repete discussões que já acabaram?",
+          "hook_imperative": "silencie o diálogo interno que destrói a sua paz",
+          "hook_provocative": "o alimento secreto que nutre a tagarelice do seu pensamento",
+          "id": "0008-9046-01",
+          "length": 230,
+          "number": 1,
+          "question": "Gualberto Jeito doloroso, mas real de olhar... pra essa mania de ficar mastigando o que os outros me falaram no trabalho. A cabeça não para de repetir as discussões... como corta esse vício de ficar discutindo sozinho mentalmente?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem está no controle quando você reage com impulso e raiva?",
+          "hook_imperative": "descubra a mecanicidade absoluta das suas emoções",
+          "hook_provocative": "a farsa do livre-arbítrio diante dos seus condicionamentos",
+          "id": "0008-9046-02",
+          "length": 182,
+          "number": 2,
+          "question": "A gente acha que tá escolhendo o que vai falar ou fazer, mas parece que as reações vêm sozinhas quando alguém me fecha no trânsito... quem tá reagindo ali se eu nem decidi ter raiva?"
+        }
+      ],
+      "persona_hash": "904682a2537e"
+    },
+    {
+      "author_name": "Sheila",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que seus momentos de lazer sempre terminam em culpa?",
+          "hook_imperative": "pare de fugir da realidade crua da sua rotina",
+          "hook_provocative": "o preço oculto das suas fugas e entretenimentos diários",
+          "id": "0008-88c4-01",
+          "length": 208,
+          "number": 1,
+          "question": "Mestre as veses a jente so quer esquecer dos boleto... da correria e relaxar assistindo uma série ou comendo um doce, mas depois o peso volta igual. Essa vontade de sumir da rotina é o que causa o sofrimento?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que muda na prática quando você sabe quem realmente é?",
+          "hook_imperative": "descarte a identidade criada pela sua memória",
+          "hook_provocative": "a inutilidade das suas histórias pessoais diante do fato",
+          "id": "0008-88c4-02",
+          "length": 181,
+          "number": 2,
+          "question": "Se a gente não é essa história que contam pra gente, o que muda na vida prática? Vou continuar acordando cedo pra trabalhar do mesmo jeito... qual a diferença real de perceber isso?"
+        }
+      ],
+      "persona_hash": "88c49d69c964"
+    },
+    {
+      "author_name": "Solange",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que vasculhar seu passado não vai resolver seus traumas?",
+          "hook_imperative": "esqueça a autoanálise e apenas olhe para o presente",
+          "hook_provocative": "o erro de tentar analisar a mente usando o próprio pensamento",
+          "id": "0008-b50d-01",
+          "length": 196,
+          "number": 1,
+          "question": "Mestre Acho um pouco complexo... esse negócio de se autoconhecer sem usar a mente. Se eu não analisar o que aconteceu na minha infância ou meus traumas, como vou entender por que sou tão insegura?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a grande armadilha de tentar se tornar alguém melhor",
+          "hook_imperative": "abandone o projeto de se aperfeiçoar no futuro",
+          "hook_provocative": "por que sua busca por evolução espiritual é apenas vaidade",
+          "id": "0008-b50d-02",
+          "length": 193,
+          "number": 2,
+          "question": "Fiquei pensando no que você disse sobre a pressa de chegar em algum lugar... a gente estuda, trabalha e faz curso querendo ser alguém melhor amanhã. Essa busca por evolução é uma ilusão também?"
+        }
+      ],
+      "persona_hash": "b50df47898fe"
+    },
+    {
+      "author_name": "Igor",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que ler livros espirituais não vai te trazer paz?",
+          "hook_imperative": "lave a sua mente de todas as teorias espirituais",
+          "hook_provocative": "a arrogância oculta por trás do seu acúmulo de conhecimento",
+          "id": "0008-199f-01",
+          "length": 201,
+          "number": 1,
+          "question": "Como superar essa fase de... acumular tanto livro, vídeo e curso sobre espiritualidade e no fim continuar com a mesma ansiedade de antes? Parece que quanto mais eu sei, mais fico perdido nas teorias..."
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que nutre o seu medo paralisante de tomar a decisão errada?",
+          "hook_imperative": "pare de tentar controlar o resultado das suas escolhas",
+          "hook_provocative": "a ilusão de que o seu pensamento pode prever o futuro",
+          "id": "0008-199f-02",
+          "length": 174,
+          "number": 2,
+          "question": "A gente passa a vida tentando ser inteligente, tomar a decisão certa na carreira pra não quebrar a cara... de onde vem esse medo absurdo de errar o caminho e dar tudo errado?"
+        }
+      ],
+      "persona_hash": "199f70f1157b"
+    },
+    {
+      "author_name": "Lara",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a quietude dura tão pouco na sua rotina?",
+          "hook_imperative": "não busque a paz como uma recompensa para a mente",
+          "hook_provocative": "o erro de tratar o silêncio como um estado a ser mantido",
+          "id": "0008-ee0a-01",
+          "length": 215,
+          "number": 1,
+          "question": "Marcos Achei uma fresta de sossego ao... ficar em silêncio no quarto ontem, mas durou cinco minutos e logo veio o pensamento cobrando as tarefas acumuladas. Como sustentar essa quietude no meio do caos do dia a dia?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "de onde vem a culpa que te impede de ficar sem fazer nada?",
+          "hook_imperative": "descubra o sofrimento de tentar ser útil o tempo todo",
+          "hook_provocative": "a escravidão mental disfarçada de necessidade de produzir",
+          "id": "0008-ee0a-02",
+          "length": 195,
+          "number": 2,
+          "question": "Tento começar uma vida mais calma, mas a sensação de que tô perdendo tempo se não tiver produzindo algo não me deixa sossegar... quem é que tá cobrando essa produtividade toda hora dentro de mim?"
+        }
+      ],
+      "persona_hash": "ee0a78057ebe"
+    },
+    {
+      "author_name": "Raimundo",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "existe alguma verdade nos seus relacionamentos atuais?",
+          "hook_imperative": "enxergue o jogo de barganhas que você chama de amor",
+          "hook_provocative": "o autointeresse obscuro que move todas as suas amizades",
+          "id": "0008-3323-01",
+          "length": 217,
+          "number": 1,
+          "question": "É de se pensar... como as amizades e os contatos hoje em dia parecem uma eterna troca de favores. Se a gente só se aproxima por interesse ou carência, existe algum encontro real entre duas pessoas ou é tudo falsidade?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que você fica tão irritado quando perde o controle?",
+          "hook_imperative": "lembre-se de que você não possui ninguém",
+          "hook_provocative": "a insensatez de tentar mudar quem está do seu lado",
+          "id": "0008-3323-02",
+          "length": 185,
+          "number": 2,
+          "question": "Fico irritado quando minha esposa faz as coisas fora do meu planejado, o corpo queima por dentro. Dá pra conviver na mesma casa sem essa mania de querer moldar o comportamento do outro?"
+        }
+      ],
+      "persona_hash": "3323c7ffa003"
+    },
+    {
+      "author_name": "Tereza",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que resta de você se toda a sua história for apagada?",
+          "hook_imperative": "solte o peso de ser alguém com um passado",
+          "hook_provocative": "o pânico do ego diante do fim das suas ilusões",
+          "id": "0008-8241-01",
+          "length": 228,
+          "number": 1,
+          "question": "Gualberto meio q to sem chao depois de tanta coisa... que ouvi aqui. Se meu nome, minha história e tudo que construí é só uma memória passageira, quem é que tá sofrendo quando a vida dá errado? Dá um vazio enorme pensar nisso..."
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você tem tanto medo do julgamento alheio?",
+          "hook_imperative": "pare de tentar defender a pessoa que você acha que é",
+          "hook_provocative": "a escravidão de dedicar a vida a proteger sua autoimagem",
+          "id": "0008-8241-02",
+          "length": 183,
+          "number": 2,
+          "question": "A gente passa o dia se defendendo, tentando manter a pose e a imagem pros outros no trabalho pra não ser julgada... como que dá pra viver desarmada sem medo do que vão falar da gente?"
+        }
+      ],
+      "persona_hash": "82419a29883c"
+    },
+    {
+      "author_name": "Heitor",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que suas técnicas de relaxamento não eliminam o estresse?",
+          "hook_imperative": "pare de tentar controlar suas reações nervosas",
+          "hook_provocative": "a fuga sutil que te impede de ver a causa da sua ansiedade",
+          "id": "0008-e00f-01",
+          "length": 231,
+          "number": 1,
+          "question": "Marcos O que você acha de... técnicas de respiração pra acalmar os pensamentos na hora do estresse? Uso no trabalho quando o clima pesa, mas parece que é só um paliativo, logo os problemas voltam... tem como cortar o mal pela raiz?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "de onde nasce o sofrimento por coisas que nunca aconteceram?",
+          "hook_imperative": "corte a interação com os pensamentos de preocupação",
+          "hook_provocative": "o mecanismo da mente que cria problemas no futuro",
+          "id": "0008-e00f-02",
+          "length": 184,
+          "number": 2,
+          "question": "Fiquei encucado com o que você falou sobre a preocupação com a demissão... a neura vem antes do fato acontecer. Como que a mente consegue criar um monstro de um negócio que nem existe?"
+        }
+      ],
+      "persona_hash": "e00f4f8296f9"
+    },
+    {
+      "author_name": "Elaine",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que sua rotina consegue engolir a sua atenção tão fácil?",
+          "hook_imperative": "observe suas cobranças sem tentar criar um método",
+          "hook_provocative": "a ilusão de que a falta de tempo é a causa do seu estresse",
+          "id": "0008-946b-01",
+          "length": 218,
+          "number": 1,
+          "question": "Você recomenda... algum exercício diário pra gente não se perder nas cobranças da rotina? Sinto que sou engolida pelas tarefas e quando vejo já tô estressada com o marido e os filhos... como manter a atenção sem pirar?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que há além das lembranças que você tem de si mesma?",
+          "hook_imperative": "descubra quem você é quando a memória silencia",
+          "hook_provocative": "a farsa de achar que se conhece pelas suas preferências",
+          "id": "0008-946b-02",
+          "length": 195,
+          "number": 2,
+          "question": "Sempre achei que me conhecia porque sabia meus gostos e meus limites, mas vendo seus vídeos percebi que isso é só história guardada na memória... o que é o autoconhecimento de verdade além disso?"
+        }
+      ],
+      "persona_hash": "946b0c5f24f1"
+    },
+    {
+      "author_name": "Sérgio",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que você realmente teme quando pensa na morte?",
+          "hook_imperative": "encare o fato de que você não controla o seu fim",
+          "hook_provocative": "o medo do fim da memória disfarçado de apego à vida",
+          "id": "0008-3bc8-01",
+          "length": 215,
+          "number": 1,
+          "question": "Marcos Sugiro o tema... da morte num próximo vídeo. A gente passa a vida juntando dinheiro, cuidando da saúde, mas no fundo tem aquele cagaço de perder tudo e sumir... tem como viver sem esse medo rondando a cabeça?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o deus que você projeta é apenas uma fuga?",
+          "hook_imperative": "abra mão das imagens mentais sobre a verdade suprema",
+          "hook_provocative": "a ilusão de barganhar com o divino por segurança",
+          "id": "0008-3bc8-02",
+          "length": 186,
+          "number": 2,
+          "question": "A gente projeta um Deus que vai resolver nossos problemas ou recompensar nosso esforço se formos bonzinhos... se esse Deus é só imaginação da mente carente, o que é o sagrado de verdade?"
+        }
+      ],
+      "persona_hash": "3bc857a84ca3"
+    },
+    {
+      "author_name": "Juliana",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você dedica sua vida a atender expectativas alheias?",
+          "hook_imperative": "pare de interpretar o personagem que criaram para você",
+          "hook_provocative": "a farsa das obrigações sociais que destroem a sua liberdade",
+          "id": "0008-a34d-01",
+          "length": 242,
+          "number": 1,
+          "question": "Mestre Que interessante como a gente se molda aos prazos... do trabalho e às expectativas da família, achando que tá construindo uma vida sólida. No fundo, sinto que tô só interpretando um papel pra agradar os outros... como sai desse teatro?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você sente tanta culpa por escolhas que já fez?",
+          "hook_imperative": "livre-se do peso de achar que você é o autor das ações",
+          "hook_provocative": "a ilusão do livre-arbítrio mecanizado pelo cérebro",
+          "id": "0008-a34d-02",
+          "length": 207,
+          "number": 2,
+          "question": "Fiquei pensando no peso das escolhas... a gente fica numa dúvida infernal com medo de errar o rumo da vida. Se o cérebro decide tudo por impulso e memória, por que a gente carrega tanta culpa pelas decisões?"
+        }
+      ],
+      "persona_hash": "a34d0bc8bdb7"
+    },
+    {
+      "author_name": "Antonella",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que suas teorias sobre aceitação falham na hora da dor?",
+          "hook_imperative": "não tente intelectualizar o seu sofrimento presente",
+          "hook_provocative": "o erro de tratar o olhar alerta como uma técnica de bolso",
+          "id": "0008-8a0f-01",
+          "length": 232,
+          "number": 1,
+          "question": "Na folha de papel é lindo... falar em aceitar a dor e não reagir, mas na hora que o estresse bate e a cobrança vem forte no peito, o corpo reage sozinho e dá vontade de sumir. Como que faz pra esse olhar funcionar na hora do aperto?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você fica tão perturbada quando perde o controle?",
+          "hook_imperative": "enxergue o seu desejo secreto de controlar a realidade",
+          "hook_provocative": "o absurdo egocentrismo que governa o seu mau humor",
+          "id": "0008-8a0f-02",
+          "length": 208,
+          "number": 2,
+          "question": "Percebo que todas as minhas crises vêm de querer que as coisas saiam exatamente do meu jeito... se algo atrasa, o humor muda na hora. De onde vem essa mania de achar que o mundo tem que rodar em torno de mim?"
+        }
+      ],
+      "persona_hash": "8a0f078545c1"
+    },
+    {
+      "author_name": "Heitor",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que sua mente te pune repetindo erros do passado?",
+          "hook_imperative": "corte o replay das suas lembranças frustradas agora",
+          "hook_provocative": "a vaidade oculta no seu sentimento de culpa crônico",
+          "id": "0008-6bc8-01",
+          "length": 228,
+          "number": 1,
+          "question": "Gualberto mais o que eu fasso nessa fase dificil... onde a cabeça não para de dar replay nos erros do passado? Fico me culpando pelo que deu errado nos negócios e não consigo focar em nada hoje... como limpa essa trava da mente?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que move a ação quando o pensamento não está projetando?",
+          "hook_imperative": "descubra a ação direta que não depende da memória",
+          "hook_provocative": "a inteligência do corpo que sua mente tenta abafar",
+          "id": "0008-6bc8-02",
+          "length": 185,
+          "number": 2,
+          "question": "Você falou que o pensamento só lida com o que já foi ou com o amanhã... se eu não usar a cabeça pra projetar os ganhos e me defender dos riscos, o que orienta o corpo na rotina prática?"
+        }
+      ],
+      "persona_hash": "6bc8ea2c3389"
+    },
+    {
+      "author_name": "Nelson",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "qual o preço de viver para sustentar o seu status?",
+          "hook_imperative": "abra mão do personagem bem-sucedido que você criou",
+          "hook_provocative": "a angústia invisível de quem se tornou escravo da própria pose",
+          "id": "0008-377d-01",
+          "length": 247,
+          "number": 1,
+          "question": "Gualberto Não dá pra ignorar o que você disse sobre... a gente viver de aparências pra sustentar o status. Eu me vejo tenso o dia todo tentando manter meu padrão e a pose de cara bem-sucedido pros outros... como larga essa vaidade sem perder tudo?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que uma simples crítica consegue destruir o seu dia?",
+          "hook_imperative": "veja a farsa da identidade que tenta se defender",
+          "hook_provocative": "o ponto cego da sua mente que te faz sentir ofendido",
+          "id": "0008-377d-02",
+          "length": 186,
+          "number": 2,
+          "question": "Se essa autoimagem que eu protejo é só uma ilusão criada pelo pensamento, por que dói tanto quando alguém critica meu trabalho ou me desvaloriza? Quem é que tá sendo ferido ali no fundo?"
+        }
+      ],
+      "persona_hash": "377d7687203d"
+    }
+  ],
+  "source_file": "cenario_0008.md",
+  "template_id": "005.md"
+}

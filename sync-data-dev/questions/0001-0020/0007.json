@@ -1,0 +1,957 @@
+{
+  "ia_agent": "perguntas_gemini_3.5_flash_v1",
+  "personas": [
+    {
+      "author_name": "Matheus",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que sua mente insiste em reviver o passado?",
+          "hook_imperative": "abandone o fantasma dos seus erros antigos",
+          "hook_provocative": "o peso invisível das coisas que você não desfaz",
+          "id": "0007-74ce-01",
+          "length": 326,
+          "number": 1,
+          "question": "Mestre Essa parte que você soltou sobre... a gente carregar essa bagagem de erros, do que já foi... cansa, sabe? O pensamento fica voltando naqueles vacilos antigos de anos atrás, remoendo o que eu devia ter feito diferente. Como que corta esse ciclo se a memória joga o arrependimento na minha cara todo dia quando eu acordo?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "é possível se livrar de um arrependimento real?",
+          "hook_imperative": "pare de se punir pelo que já sumiu",
+          "hook_provocative": "a ilusão de que você poderia ter sido diferente",
+          "id": "0007-74ce-02",
+          "length": 270,
+          "number": 2,
+          "question": "Tem hora que dá um nó na cabeça... o corpo tá aqui trabalhando, mas a mente tá presa lá atrás, numa culpa que não sai de mim. Você fala aí de iluminação, de satsang, mas como fica em paz no presente se a cabeça não para de cobrar o preço das escolhas erradas que eu fiz?"
+        }
+      ],
+      "persona_hash": "74ce66f3c02c"
+    },
+    {
+      "author_name": "Paulo",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que o silêncio foca justamente na sua dor?",
+          "hook_imperative": "pare de lutar contra o que está acontecendo",
+          "hook_provocative": "o mecanismo secreto que amplifica o seu incômodo",
+          "id": "0007-5f8b-01",
+          "length": 403,
+          "number": 1,
+          "question": "Minha life mudou quando... eu decidi deitar mais cedo pra tentar relaxar, mas parece que o tiro saiu pela culatra. Quando o quarto fica totalmente em silêncio, esse zumbido no meu ouvido parece que dobra de volume, vira uma turbina. Quanto mais eu tento focar na sua palestra pra me acalmar, mais esse barulho me persegue. Como que desliga a atenção de uma coisa que tá grudada dentro da própria cabeça?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o que fazer quando o silêncio se torna insuportável?",
+          "hook_imperative": "encare o desconforto sem tentar mudá-lo",
+          "hook_provocative": "a armadilha de tentar fugir do próprio corpo",
+          "id": "0007-5f8b-02",
+          "length": 291,
+          "number": 2,
+          "question": "É foda tentar dormir assim... o corpo tá exausto, mas a mente fica vidrada nesse maldito apito no ouvido que não dá trégua. Falar em atenção e transformação parece bonito no vídeo, mas na prática, no escuro do quarto, o desespero bate. O que se faz quando o silêncio vira o seu pior inimigo?"
+        }
+      ],
+      "persona_hash": "5f8b1d098ed4"
+    },
+    {
+      "author_name": "Rafael",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante",
+            "financeiro-material"
+          ],
+          "hook_curiosity": "o que se esconde atrás da sua neura de controle?",
+          "hook_imperative": "solte a obsessão por segurança absoluta",
+          "hook_provocative": "o medo irracional que tranca você por dentro",
+          "id": "0007-9ec5-01",
+          "length": 358,
+          "number": 1,
+          "question": "Quem aí também já tentou meditar e só passou raiva?... Eu tava tentando fazer os exercícios que vi sobre yoga, mas a neura não deixa. Só de pensar que posso bater a porta e esquecer a chave lá dentro, o coração já dispara, fico checando o bolso de cinco em cinco minutos. Como que o corpo relaxa se a mente tá o tempo todo prevendo o pior cenário na calçada?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que criamos desastres que não estão acontecendo?",
+          "hook_imperative": "descubra a paz que não depende de garantias",
+          "hook_provocative": "a mente que inventa perigos para se manter alerta",
+          "id": "0007-9ec5-02",
+          "length": 326,
+          "number": 2,
+          "question": "Mal consigo focar na respiração... o pensamento fica criando o cenário de eu preso do lado de fora, sem documento, sem nada, um desespero bobo que trava as costas. Você fala em presença, mas a minha cabeça tá sempre tentando proteger o amanhã de um imprevisto. Como que desativa esse alerta de perigo que a mente cria do nada?"
+        }
+      ],
+      "persona_hash": "9ec5d5402087"
+    },
+    {
+      "author_name": "Danilo",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como manter a mente em paz no meio do caos alheio?",
+          "hook_imperative": "não se envolva no inferno que não é seu",
+          "hook_provocative": "o erro de absorver o sofrimento da sua família",
+          "id": "0007-d3d8-01",
+          "length": 383,
+          "number": 1,
+          "question": "Gualberto Como que silencia a mente... com o caos que tá o grupo da família? Meu irmão resolveu se separar agora e a casa virou um inferno, todo mundo opinando, chorando, uma energia pesada dentro de casa. Eu tento sentar pra ver o canal e entender como lidar com os pensamentos, mas os gritos e a fofoca na sala não deixam. Como fica neutro quando o problema tá embaixo do teu teto?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a mente adora se meter no drama dos outros?",
+          "hook_imperative": "saia do circuito de confusão da sua família",
+          "hook_provocative": "a ilusão de que você precisa consertar a vida de alguém",
+          "id": "0007-d3d8-02",
+          "length": 344,
+          "number": 2,
+          "question": "O clima aqui tá sufocante... parece que a separação deles virou uma novela que consome todo mundo, e o meu pensamento fica tentando achar uma solução pra acalmar os ânimos. Só que quanto mais eu penso, mais exausto eu fico com esse drama todo. Como que a gente se desliga desse falatório mental sem parecer um grosso insensível com os parentes?"
+        }
+      ],
+      "persona_hash": "d3d88aa014b2"
+    },
+    {
+      "author_name": "Marisa",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que o medo de perder coisas consome sua energia?",
+          "hook_imperative": "livre-se da paranoia do controle preventivo",
+          "hook_provocative": "a falsa segurança que você busca em papéis e objetos",
+          "id": "0007-47ba-01",
+          "length": 431,
+          "number": 1,
+          "question": "Marcos Quem aí também já tentou meditar e só passou raiva com o... fluxo de pensamentos malucos? Eu fui tentar fechar os olhos depois de assistir o vídeo sobre os problemas serem ilusão, mas a única coisa que veio na cabeça foi a neura de perder minha pasta de documentos. Fiquei revirando as gavetas mentalmente com medo de ter sumido com o contrato da empresa. Que ilusão é essa que gela o sangue e faz o corpo tremer de verdade?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como silenciar o medo antes que ele vire pânico?",
+          "hook_imperative": "encare o seu vazio sem buscar refúgio na neura",
+          "hook_provocative": "o apego invisível por trás do medo da perda",
+          "id": "0007-47ba-02",
+          "length": 337,
+          "number": 2,
+          "question": "Não dá pra ficar quieta... a cabeça fica o tempo todo me alertando que se eu perder aquele papel importante a minha vida para, que tudo vai dar errado no cartório. É uma sensação de perigo iminente que não me deixa relaxar um segundo. Como que eu encaro esse pânico de perder as coisas sem sair correndo pra checar a gaveta mais uma vez?"
+        }
+      ],
+      "persona_hash": "47ba5b26b37e"
+    },
+    {
+      "author_name": "Vanessa",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como não surtar quando a conta da vida não fecha?",
+          "hook_imperative": "pare de brigar com o fato que já aconteceu",
+          "hook_provocative": "a ilusão de controle sobre os boletos do mês",
+          "id": "0007-a806-01",
+          "length": 379,
+          "number": 1,
+          "question": "Gualberto Poderia ter sido mais claro em... como não se preocupar quando a conta de luz vem o dobro do valor sem motivo nenhum? O papel tá aqui na mesa, a taxa tá abusiva e o boleto vence semana que vem. Você fala pra viver sem preocupação, mas o dinheiro vai ter que sair de outra área da casa. Como que o pensamento fica quieto sabendo que o orçamento do mês acabou de quebrar?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que um susto financeiro destrói sua paz interna?",
+          "hook_imperative": "observe a revolta do estômago sem alimentá-la",
+          "hook_provocative": "o erro de basear seu bem-estar no saldo bancário",
+          "id": "0007-a806-02",
+          "length": 315,
+          "number": 2,
+          "question": "O susto de abrir o envelope e ver aquele valor absurdo travou meu estômago, passei a tarde com dor de cabeça. Fica difícil ouvir sobre espiritualidade quando a realidade material dá um soco desses na rotina. Como que faz pro corpo não reagir com essa queimação interna quando a injustiça do dia a dia bate na porta?"
+        }
+      ],
+      "persona_hash": "a8065cd14ec6"
+    },
+    {
+      "author_name": "Denis",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "como suportar a espera sem adoecer a mente?",
+          "hook_imperative": "corte a projeção do pior cenário agora mesmo",
+          "hook_provocative": "a tortura psicológica de quem depende do amanhã",
+          "id": "0007-cf3c-01",
+          "length": 356,
+          "number": 1,
+          "question": "Mestre Quando você explica... sobre o pensamento ser só passado, eu tento olhar pra minha situação e trava tudo. Estou numa fila de espera eterna pra conseguir marcar um exame médico sério e a cabeça não para de criar o pior cenário sobre a minha saúde. Como que lida com esse tempo que não passa, onde a espera física vira uma tortura mental de ansiedade?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "o medo da doença ou o medo do descontrole?",
+          "hook_imperative": "fique no corpo atual e solte a fantasia do fim",
+          "hook_provocative": "o sofrimento oculto na fila da incerteza",
+          "id": "0007-cf3c-02",
+          "length": 324,
+          "number": 2,
+          "question": "A angústia de ficar dependendo de uma listagem no sistema pra saber quando vou ser atendido acaba comigo, o corpo fica tenso o dia todo. O vídeo fala pra observar sem se identificar, mas o medo de a saúde piorar antes da minha vez chegar é muito físico. O que sobra da mente quando o futuro parece uma ameaça real pro corpo?"
+        }
+      ],
+      "persona_hash": "cf3c7d8334fe"
+    },
+    {
+      "author_name": "Clarice",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a desordem do mundo te irrita tanto?",
+          "hook_imperative": "pare de exigir que o mundo seja organizado",
+          "hook_provocative": "o teste brutal da sua paz na fila do banco",
+          "id": "0007-e33d-01",
+          "length": 380,
+          "number": 1,
+          "question": "Marcos Quem mais tá nessa corda bamba entre surtar e continuar?... Acabei de passar duas horas em pé numa fila de banco gigantesca, tudo desorganizado, o povo reclamando no meu ouvido, um calor infernal. Assisti seu vídeo sobre despertar, mas a verdade é que saí de lá com o sangue fervendo. Como que mantém a lucidez quando o ambiente ao redor esmaga qualquer tentativa de calma?"
+        },
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que a pressa da rotina faz com a sua mente?",
+          "hook_imperative": "sustente o desconforto sem revidar internamente",
+          "hook_provocative": "a ilusão de que seu tempo está sendo roubado",
+          "id": "0007-e33d-02",
+          "length": 321,
+          "number": 2,
+          "question": "Aquela lentidão no atendimento me deu um cansaço que parece que andei quilômetros, uma sensação de impotência vendo o tempo sumir ali. A mente fica julgando a incompetência do gerente, os minutos passando e o dia rendendo nada. Como que faz pra olhar pra essa perda de tempo sem deixar a indignação azedar o resto do dia?"
+        }
+      ],
+      "persona_hash": "e33d1807a9c9"
+    },
+    {
+      "author_name": "Thomas",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "qual dor você está tentando calar com a comida?",
+          "hook_imperative": "sinta o vazio interno sem correr para a geladeira",
+          "hook_provocative": "o vício do escape imediato no prato da noite",
+          "id": "0007-dd9d-01",
+          "length": 423,
+          "number": 1,
+          "question": "Gualberto Como que concilia isso com... esse impulso maldito que vem no final do dia? O estômago não tá com fome, mas a cabeça fica numa fissura incontrolável de assaltar a geladeira e comer até passar mal, parece que é o único alívio pro estresse do trabalho. Você fala de ego ferido, mas na hora que o ataque de compulsão vem, parece que eu viro um robô sem escolha nenhuma. O que tá por trás dessa fome que não é física?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a culpa sempre vem depois do prazer?",
+          "hook_imperative": "observe o impulso faminto sem ceder ao movimento",
+          "hook_provocative": "a armadilha psicológica de se anestesiar com o excesso",
+          "id": "0007-dd9d-02",
+          "length": 312,
+          "number": 2,
+          "question": "O pior é a ressaca moral depois que eu como tudo o que vejo pela frente, uma culpa pesada que acaba com a minha noite. Eu sei que tô usando o prato pra anestesiar alguma neura do dia, mas o corpo obedece o impulso cego antes de eu conseguir pensar. Como que quebra esse automatismo de buscar conforto no excesso?"
+        }
+      ],
+      "persona_hash": "dd9d5ddb4663"
+    },
+    {
+      "author_name": "Célio",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a falta de resposta dos outros te desola?",
+          "hook_imperative": "esqueça a exigência de ser respondido agora",
+          "hook_provocative": "a raiva oculta quando as coisas fogem do esperado",
+          "id": "0007-7510-01",
+          "length": 399,
+          "number": 1,
+          "question": "Tô perdidinho no meio de tanta teoria e nenhuma paz na... minha rotina prática. Comprei um troço na internet, veio totalmente errado e quando tento resolver, fico preso num chat com um robô burro que só manda mensagem pronta. O sangue sobe, a frustração bate e eu vejo o vídeo sobre autoimagem... mas na real, como que não fica puto quando o sistema te faz de palhaço e ninguém resolve seu problema?"
+        },
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que a sua impaciência diz sobre você?",
+          "hook_imperative": "corte o diálogo mental com o suporte robótico",
+          "hook_provocative": "a humilhação ilusória de perder o controle do processo",
+          "id": "0007-7510-02",
+          "length": 311,
+          "number": 2,
+          "question": "Dá uma sensação de impotência terrível ver que gastei dinheiro e agora tô preso num looping de protocolo que não dá em nada. A mente fica martelando a injustiça, querendo brigar, querendo achar um culpado humano ali. Como aceitar esse cansaço de ser feito de trouxa pelas empresas sem engolir sapo e passar mal?"
+        }
+      ],
+      "persona_hash": "7510654e8dca"
+    },
+    {
+      "author_name": "Andréia",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que o topo da carreira continua parecendo vazio?",
+          "hook_imperative": "pare de correr atrás da próxima validação",
+          "hook_provocative": "a armadilha de buscar seu valor no reconhecimento",
+          "id": "0007-79b6-01",
+          "length": 394,
+          "number": 1,
+          "question": "Faz sentido pensar na mente como... uma máquina que nunca tá satisfeita com o cargo atual? Eu passei os últimos anos focada em subir de nível na carreira, bati as metas, mas a sensação de que ainda falta relevância ou que eu tô estagnada não passa. O vídeo fala de conflito psicológico... mas como desliga essa cobrança interna por sucesso se a sociedade mede o teu valor pelo que você entrega?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que te faz fugir do momento sem metas?",
+          "hook_imperative": "desista da ilusão de ser alguém importante",
+          "hook_provocative": "a neurose do progresso contínuo que esmaga o presente",
+          "id": "0007-79b6-02",
+          "length": 300,
+          "number": 2,
+          "question": "O cansaço de acordar todo dia pensando no próximo passo profissional tá me esgotando, parece que eu nunca chego no lugar ideal. Se eu não tô produzindo ou planejando o futuro, sinto que tô ficando pra trás na corrida. Como que para de negociar a paz de hoje em troca de uma promessa de status amanhã?"
+        }
+      ],
+      "persona_hash": "79b6c471951e"
+    },
+    {
+      "author_name": "Jussara",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a quebra da sua rotina gera tanta revolta?",
+          "hook_imperative": "abandone a neura de controlar a agenda do dia",
+          "hook_provocative": "o apego ao planejamento que te faz sofrer no trânsito",
+          "id": "0007-a7e3-01",
+          "length": 421,
+          "number": 1,
+          "question": "Gualberto Quem mais tá tentando ser mais organizado no dia a dia?... Eu tinha planejado minha semana toda no home-office, tudo ajeitado, e do nada o chefe liga exigindo que eu cruze a cidade pra ir presencial sem necessidade nenhuma. O ódio subiu na hora, quebrou meu ritmo e passei o caminho trancada no trânsito remoendo a palhaçada. Como fica em comunhão com algo maior se as pessoas mudam as regras e fodem o teu dia?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "quem é que se sente humilhado por uma ordem?",
+          "hook_imperative": "execute a tarefa sem carregar o peso do rancor",
+          "hook_provocative": "a rebeldia cega do ego diante da autoridade",
+          "id": "0007-a7e3-02",
+          "length": 335,
+          "number": 2,
+          "question": "A sensação de submissão a uma ordem idiota estragou meu humor, o corpo ficou tenso na cadeira do escritório o dia todo. O pensamento fica atacando o autoritarismo do superior, criando diálogos de enfrentamento na minha cabeça. Como silenciar essa revolta contra o controle dos outros quando você precisa do emprego pra pagar as contas?"
+        }
+      ],
+      "persona_hash": "a7e32ac8fb47"
+    },
+    {
+      "author_name": "Chloe",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que qualquer sinal físico ativa o seu pânico?",
+          "hook_imperative": "pare de vigiar suas reações biológicas básicas",
+          "hook_provocative": "a obsessão por monitorar os sintomas do próprio corpo",
+          "id": "0007-1c31-01",
+          "length": 411,
+          "number": 1,
+          "question": "mais como fica calmo se o mundo ta... tão seco, essa sensação de que o corpo tá sempre pedindo arrego, uma neura constante de desidratar ou passar mal na rua se eu esquecer a garrafa d'água. Assisti o vídeo sobre mudança de humor, mas a verdade é que o meu físico reage antes, qualquer tontura boba já me joga num estado de alerta e mau humor. Como que acalma a mente se o medo tá cravado no bem-estar do corpo?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o medo da fragilidade ou a ilusão da imortalidade?",
+          "hook_imperative": "sustente a vulnerabilidade do corpo sem surtar",
+          "hook_provocative": "a mente hipocondríaca que sabota o próprio descanso",
+          "id": "0007-1c31-02",
+          "length": 304,
+          "number": 2,
+          "question": "É um saco viver medindo os mililitros que tomo por medo de ficar doente, a cabeça não desliga desse monitoramento físico constante. Qualquer alteração no clima já vira motivo pra eu achar que vou desmaiar. Como que larga essa paranoia de autoproteção corporal e deixa a vida fluir sem esse vigia interno?"
+        }
+      ],
+      "persona_hash": "1c3162abe1d8"
+    },
+    {
+      "author_name": "Heloísa",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o que o disparo do seu coração quer te mostrar?",
+          "hook_imperative": "não lute contra a crise, deixe o sintoma passar",
+          "hook_provocative": "a ilusão de que você está morrendo no corredor do mercado",
+          "id": "0007-e83c-01",
+          "length": 445,
+          "number": 1,
+          "question": "Mestre mais ae mestre por que é tão caro o preço de satsang para... quem tá no meio do mercado e sente o peito apertar do nada? Eu tava escolhendo as coisas na gôndola e o coração disparou, faltou o ar, uma sensação horrível de que eu ia cair ali no corredor. Você fala pra estar ciente dos pensamentos, mas na hora do sufoco físico, o pânico toma conta e a teoria some. Como faz pro corpo desacelerar quando o medo vira um tranco físico desses?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que criamos medo do próprio medo?",
+          "hook_imperative": "fique onde você está sem fugir do ambiente",
+          "hook_provocative": "o cativeiro mental que nasce após um susto físico",
+          "id": "0007-e83c-02",
+          "length": 314,
+          "number": 2,
+          "question": "O medo de passar vergonha ou desmaiar na frente dos outros no mercado me fez largar o carrinho e sair correndo pro carro, uma frustração enorme. A cabeça agora fica com medo de ir de novo e acontecer o mesmo treco. Como que quebra esse ciclo onde o pensamento fica prevendo o próximo ataque de pânico no dia a dia?"
+        }
+      ],
+      "persona_hash": "e83cf24f5733"
+    },
+    {
+      "author_name": "Roberta",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que um número no exame destrói sua estabilidade?",
+          "hook_imperative": "trate da saúde sem transformar o dado em drama",
+          "hook_provocative": "a fantasia de controle sobre a velhice do corpo",
+          "id": "0007-6501-01",
+          "length": 364,
+          "number": 1,
+          "question": "Marcos Concordo cem por cento... com os vídeos de saúde mental, mas o bicho pega quando o exame de sangue chega. Peguei meu resultado de colesterol lá no alto e o mundo caiu, a cabeça já começou a fantasiar problema cardíaco, entupimento, um monte de neura. Como que mantém o equilíbrio interno se o dado clínico tá ali no papel te dizendo que o corpo tá em risco?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "sua preocupação é com a saúde ou com o envelhecer?",
+          "hook_imperative": "coma o que precisa sem o julgamento do vigia",
+          "hook_provocative": "o medo da morte fantasiado de cuidado médico",
+          "id": "0007-6501-02",
+          "length": 313,
+          "number": 2,
+          "question": "A neura é tanta que agora fico com medo de comer qualquer coisa e piorar as taxas, a hora do almoço virou um momento de estresse em vez de descanso. A mente fica julgando cada garfada, criando uma vigilância chata sobre o corpo. Como que limpa essa paranoia médica que transforma a rotina numa contagem de riscos?"
+        }
+      ],
+      "persona_hash": "65013958d1d9"
+    },
+    {
+      "author_name": "Sophia",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a inatividade forçada te causa tanto pânico?",
+          "hook_imperative": "aceite que o sistema caiu e solte as demandas",
+          "hook_provocative": "a neurose da produtividade que te impede de parar",
+          "id": "0007-54bc-01",
+          "length": 379,
+          "number": 1,
+          "question": "Gualberto Tentei aplicar o que você falou e... caí do cavalo hoje no escritório. O sistema interno caiu logo cedo, passei a tarde inteira sem conseguir produzir nada, vendo as demandas acumulando e o prazo estourando. O vídeo fala de ausência de ego, mas como não se desesperar vendo o dia útil sumir por incompetência técnica da TI? O prejuízo vai cair nas minhas costas amanhã."
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "o que sobra de você quando você não está produzindo?",
+          "hook_imperative": "fique no ócio forçado sem brigar com as horas",
+          "hook_provocative": "o vício da utilidade que mascara o vazio interno",
+          "id": "0007-54bc-02",
+          "length": 323,
+          "number": 2,
+          "question": "O que me mata é essa sensação de impotência de ficar olhando pra tela preta sem poder fazer nada, o corpo fica elétrico querendo resolver e não dá. A mente fica culpando a fiação, o suporte, gerando uma queimação de raiva à toa. Como que a gente tolera essa pausa forçada da vida sem deixar a ansiedade explodir na cadeira?"
+        }
+      ],
+      "persona_hash": "54bc04520ee2"
+    },
+    {
+      "author_name": "Silvana",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que a mente antecipa a dor que ainda não existe?",
+          "hook_imperative": "pare de colecionar histórias de sofrimento físico",
+          "hook_provocative": "o pânico do parto construído pelo relato alheio",
+          "id": "0007-0276-01",
+          "length": 433,
+          "number": 1,
+          "question": "Gualberto Você traduziu exatamente a merda que é viver tentando agradar os... outros, mas o buraco é mais embaixo quando o assunto é dor física. Estou grávida e as pessoas não param de me assustar falando sobre os sofrimentos do parto, as dores terríveis que vêm pela frente. O pensamento fica preso nessa contagem regressiva de medo do corpo não aguentar. Como fica ciente sem deixar esse pânico do físico tomar conta antes da hora?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o medo da dor física ou o medo de perder o controle?",
+          "hook_imperative": "acolha o processo do corpo sem o drama da mente",
+          "hook_provocative": "a armadilha de tentar se proteger da própria natureza",
+          "id": "0007-0276-02",
+          "length": 349,
+          "number": 2,
+          "question": "Dá um frio na espinha só de imaginar o momento, a mente fica criando cenas de complicação no hospital, uma ansiedade que tensiona a barriga. Eu sei que o corpo sabe o que fazer, mas o pensamento insistente tenta achar uma rota de fuga pra um fato que vou ter que encarar de qualquer jeito. Como aquietar esse alerta biológico que não para de apitar?"
+        }
+      ],
+      "persona_hash": "02763d4823d4"
+    },
+    {
+      "author_name": "Filomena",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a falta de uma tranca destrói o seu sono?",
+          "hook_imperative": "deixe o carro na rua e solte o controle da noite",
+          "hook_provocative": "o cativeiro noturno de quem vigia a própria posse",
+          "id": "0007-2d7d-01",
+          "length": 368,
+          "number": 1,
+          "question": "as veses lembro daquilo q eu li sobre o... desprendimento, mas na prática a neura fala mais alto. O portão eletrônico da garagem quebrou de noite e tive que deixar o carro na calçada, passei a noite em claro olhando pela janela com medo de roubo ou vandalismo. Você fala em kundalini, em energia, mas como que dorme sabendo que seu patrimônio tá vulnerável ali na rua?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o seu objeto te serve ou você serve ao objeto?",
+          "hook_imperative": "observe o pânico do roubo sem sair da cama",
+          "hook_provocative": "a ilusão de segurança que cega a sua noite",
+          "id": "0007-2d7d-02",
+          "length": 338,
+          "number": 2,
+          "question": "Fiquei numa vigília exaustiva, qualquer barulho de moto na rua eu já pulava da cama achando que era alguém mexendo no vidro, uma loucura. A mente justifica que tô apenas sendo prudente com o que lutei pra comprar, mas a verdade é que virei escrava daquele pedaço de ferro. Como que quebra esse apego material que tira o descanso do corpo?"
+        }
+      ],
+      "persona_hash": "2d7dde36c9c5"
+    },
+    {
+      "author_name": "Daiane",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que o medo da fragilidade óssea te paralisa?",
+          "hook_imperative": "pare de antecipar o desgaste natural da idade",
+          "hook_provocative": "a ilusão de manter o corpo intacto para sempre",
+          "id": "0007-5126-01",
+          "length": 428,
+          "number": 1,
+          "question": "Mestre É triste ver como a gente se tortura por causa de... projeções bobas sobre o corpo envelhecer. Vi um caso na família e agora não tiro da cabeça a paranoia de desenvolver osteoporose, fico me olhando no espelho achando que minha postura tá errada, que vou quebrar um osso se der um jeito errado. O vídeo fala sobre o amor ser nossa natureza real... mas como sente amor se o corpo parece frágil e assustador pro pensamento?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "sua preocupação é com a saúde ou com o controle?",
+          "hook_imperative": "caminhe sem a fiscalização do medo do amanhã",
+          "hook_provocative": "a mente hipocondríaca que cria a própria prisão",
+          "id": "0007-5126-02",
+          "length": 339,
+          "number": 2,
+          "question": "Essa vigilância médica constante tá me tirando a espontaneidade, ando devagar com medo de cair, uma bobeira que tensiona as articulações à toa. A mente fica buscando sintomas na internet pra justificar a própria paranoia de ficar inválida no futuro. Como que desliga esse fiscal biológico que transforma o dia a dia num plano de contenção?"
+        }
+      ],
+      "persona_hash": "51267d72bc82"
+    },
+    {
+      "author_name": "Kauan",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a resposta do seu filho fere tanto seu orgulho?",
+          "hook_imperative": "solte a exigência de submissão do adolescente",
+          "hook_provocative": "a ilusão de autoridade que gera o conflito familiar",
+          "id": "0007-0767-01",
+          "length": 421,
+          "number": 1,
+          "question": "Mestre tipo por que o mestre sugere participar de satsang se... a porrada come dentro de casa e a gente perde a linha? Chamei meu filho adolescente pra arrumar a bagunça do quarto e ele me rebateu com uma grosseria imensa, fechou a porta na minha cara. O sangue subiu pro cérebro na hora, o orgulho de pai foi pro chão. Como aplica esse caminho infinito se o desrespeito familiar quebra a tua autoridade em dois segundos?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem é que se sentiu ofendido dentro de casa?",
+          "hook_imperative": "observe o seu orgulho ferido sem revidar a palavra",
+          "hook_provocative": "a disputa cega de egos entre pai e filho",
+          "id": "0007-0767-02",
+          "length": 329,
+          "number": 2,
+          "question": "A raiva ficou remoendo aqui no peito a tarde toda, o pensamento criando discursos de punição e castigo pra dar uma lição nele. Fica difícil focar em espiritualidade com o ambiente de casa azedo desse jeito, uma tensão pesada. Como que silencia essa ofensa do ego sem explodir e quebrar o resto de relação que sobrou com o garoto?"
+        }
+      ],
+      "persona_hash": "076747badf5f"
+    },
+    {
+      "author_name": "Jair",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a falta de um contrato assinado te apavora?",
+          "hook_imperative": "pare de brigar com a lentidão da burocracia",
+          "hook_provocative": "a ilusão de que a segurança externa garante sua paz",
+          "id": "0007-349e-01",
+          "length": 415,
+          "number": 1,
+          "question": "Dói na carne, mas foi bom ver... o quanto a gente fica preso em amarras burocráticas pra ter um teto. Estou no meio de uma negociação de aluguel e o proprietário tá travando tudo por causa do fiador e do depósito caução, uma burocracia que parece que tá me tirando o chão. O vídeo fala sobre como ser feliz, mas como fica em paz se a segurança de onde você vai morar tá na mão de contrato e boa vontade de terceiro?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que a iminência da mudança desperta em você?",
+          "hook_imperative": "fique no dia de hoje e solte as chaves do futuro",
+          "hook_provocative": "o sofrimento de quem tenta antecipar o amanhã",
+          "id": "0007-349e-02",
+          "length": 352,
+          "number": 2,
+          "question": "O pensamento não sai do prazo de entrega das chaves, fica antecipando que o negócio vai cair e eu vou ficar sem lugar pra ir, uma ansiedade que não me deixa trabalhar direito. A mente tenta achar uma saída lógica pra pressa, mas o processo depende de papelada. Como que tolera esse compasso de espera imobiliário sem deixar o estômago queimar de neura?"
+        }
+      ],
+      "persona_hash": "349edc7bf36b"
+    },
+    {
+      "author_name": "Benjamin",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a injustiça do chefe machuca tanto seu ego?",
+          "hook_imperative": "solte o desejo de provar que você estava certo",
+          "hook_provocative": "o erro de buscar validação justa no ambiente corporativo",
+          "id": "0007-549e-01",
+          "length": 390,
+          "number": 1,
+          "question": "Marcos Como meditar... com o estômago embrulhado de injustiça? Meu chefe cometeu uma gafe imensa no relatório e a diretoria veio cobrar em cima de mim, levei uma comida de rabo histórica por um erro que não foi meu, e o cara nem pra assumir a bronca. O vídeo fala que satsang é encontro consigo mesmo... mas na hora do expediente, como engole esse sapo sem deixar o rancor estragar a noite?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem é o injustiçado que quer vingança mental?",
+          "hook_imperative": "observe a queimação do peito sem alimentar o drama",
+          "hook_provocative": "a vaidade ferida pela acusação do superior",
+          "id": "0007-549e-02",
+          "length": 340,
+          "number": 2,
+          "question": "A raiva tá presa na garganta, o pensamento fica reprisando a cena e criando respostas perfeitas que eu devia ter dado na hora pra me defender. Fico fingindo que tá tudo bem pra manter o emprego, mas a frustração interna tá me consumindo por dentro. Como que desliga essa cobrança de justiça do ego quando a engrenagem do trabalho é injusta?"
+        }
+      ],
+      "persona_hash": "549ee075c1f8"
+    },
+    {
+      "author_name": "Melissa",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a falta de um objetivo te causa tanto tédio?",
+          "hook_imperative": "pare de procurar uma missão especial para você",
+          "hook_provocative": "a ilusão de buscar o sentido da vida no futuro",
+          "id": "0007-5b07-01",
+          "length": 378,
+          "number": 1,
+          "question": "Tô me sentindo... um zero à esquerda ultimamente, uma sensação esquisita de que os dias passam e nada do que eu faço tem relevância real, falta um norte. Vi seu vídeo sobre despertar da consciência, iluminação, mas a verdade é que esbarro nessa apatia de não ver graça na rotina de sempre. Como que acorda pra algo maior se a vida cotidiana parece um looping sem sentido nenhum?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que assusta você no vazio do momento presente?",
+          "hook_imperative": "sustente a ausência de rumo sem criar problemas",
+          "hook_provocative": "a neurose de precisar ser alguém útil e focado",
+          "id": "0007-5b07-02",
+          "length": 329,
+          "number": 2,
+          "question": "Essa cobrança interna de ter que achar um propósito pro amanhã tá me deixando ansiosa, parece que tô desperdiçando o tempo enquanto todo mundo sabe pra onde ir. A mente fica o tempo todo julgando a minha falta de rumo, gerando um desânimo pesado. Como que aceita esse vazio do momento sem correr pra inventar uma meta artificial?"
+        }
+      ],
+      "persona_hash": "5b07f7fe5ed1"
+    },
+    {
+      "author_name": "Rogério",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que o gasto do seu filho aciona o seu desespero?",
+          "hook_imperative": "encare o prejuízo do cartão sem o drama da traição",
+          "hook_provocative": "a ilusão de controle sobre o dinheiro e a família",
+          "id": "0007-7fd4-01",
+          "length": 415,
+          "number": 1,
+          "question": "Dá desespero ver como a engrenagem social força a gente a... focar só em dinheiro, e o rombo vem de onde a gente menos espera. Descobri que meu filho gastou uma nota preta no meu cartão com jogo online escondido, uma quebra de confiança que me deixou cego de raiva. O vídeo fala de identificação com o corpo... mas na prática, como que o pensamento fica calmo vendo o prejuízo financeiro e a mentira dentro de casa?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "o medo do futuro do seu filho ou o pânico da perda?",
+          "hook_imperative": "resolva o rombo financeiro sem punir o amanhã",
+          "hook_provocative": "a mente que transforma o erro do jovem em tragédia",
+          "id": "0007-7fd4-02",
+          "length": 333,
+          "number": 2,
+          "question": "A decepção com a atitude dele tá me roendo por dentro, o pensamento fica orbitando o valor sumido e a falta de respeito do garoto, uma queimação chata. Eu tento respirar, mas a mente fica projetando que se ele faz isso agora, vai virar um desonesto amanhã. Como que corta esse alarme do futuro pra resolver o fato aqui de forma fria?"
+        }
+      ],
+      "persona_hash": "7fd4dfa912d4"
+    },
+    {
+      "author_name": "Matheus",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que o medo de parecer burro paralisa você?",
+          "hook_imperative": "desista da necessidade de impressionar os outros",
+          "hook_provocative": "a vaidade oculta na sua insegurança intelectual",
+          "id": "0007-daa5-01",
+          "length": 412,
+          "number": 1,
+          "question": "Marcos meio q o tranco da vida justifica por que o mestre sugere participar de satsang... pra clarear a mente, mas o bicho pega na minha insegurança. No meio da reunião de trabalho me deu um branco, travei pra expor as ideias e fiquei me achando o cara mais burro e despreparado da mesa, um complexo de inferioridade pesado. Como que se livra do medo do julgamento se a cabeça fica carimbando que eu sou incapaz?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem é que quer ser visto como o gênio da equipe?",
+          "hook_imperative": "observe o vexame do ego sem tentar consertar",
+          "hook_provocative": "a neurose de autoafirmação que sabota sua fala",
+          "id": "0007-daa5-02",
+          "length": 319,
+          "number": 2,
+          "question": "O pior é que o erro passa, mas o pensamento fica repetindo a cena em looping, me martirizando pelo que eu devia ter falado pra parecer inteligente. Fico me medindo pela opinião dos colegas de equipe, uma dependência chata de aprovação. Como que para de alimentar essa autoimagem frágil que desaba com qualquer silêncio?"
+        }
+      ],
+      "persona_hash": "daa5e14d7027"
+    },
+    {
+      "author_name": "Henrique",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que a perda de um dinheiro esquecido te fere tanto?",
+          "hook_imperative": "aceite a taxa cobrada e cancele o aplicativo",
+          "hook_provocative": "a ilusão de controle financeiro perfeito na rotina",
+          "id": "0007-f126-01",
+          "length": 406,
+          "number": 1,
+          "question": "Gualberto Alguém se identifica... com essa sensação de ser passado pra trás pela própria distração? Descobri hoje um aplicativo cobrando mensalidade automática no meu cartão há um ano sem eu usar, um dinheiro jogado no lixo por pura falta de atenção minha. Fiquei puto com a empresa e comigo mesmo. O vídeo fala sobre o que é o pensar... mas como fica em paz com esse prejuízo gerado pelo próprio desleixo?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "financeiro-material"
+          ],
+          "hook_curiosity": "quem é o administrador perfeito que está revoltado?",
+          "hook_imperative": "observe a sua distração sem o chicote da culpa",
+          "hook_provocative": "a queimação de raiva pelo controle que falhou",
+          "id": "0007-f126-02",
+          "length": 310,
+          "number": 2,
+          "question": "A indignação de ter pago por algo invisível estragou meu almoço, a mente fica calculando o montante total que perdi e remoendo o descuido. É um rancor bobo que gruda no peito e fica julgando a minha incompetência de não ter visto o extrato antes. Como que corta essa punição mental por um erro que já tá feito?"
+        }
+      ],
+      "persona_hash": "f1261ee300d3"
+    },
+    {
+      "author_name": "Guilherme",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o medo da poluição ou a paranoia da sobrevivência?",
+          "hook_imperative": "respire o ar que está aí sem a neura da contagem",
+          "hook_provocative": "a mente que transforma o clima urbano em ameaça fatal",
+          "id": "0007-a691-01",
+          "length": 372,
+          "number": 1,
+          "question": "Alguém mais se pega pensando no almoço enquanto trabalha?... Eu tava vendo o vídeo sobre o processo de iluminação, mas a cabeça desvia pro ar carregado e pra fumaça da cidade grande, uma preocupação constante de tá respirando veneno e destruindo a saúde. Como fica em silêncio se a neura ambiental não sai do pensamento, me dizendo que o ar daqui tá me matando aos poucos?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que sua paz depende da pureza da atmosfera?",
+          "hook_imperative": "sustente o desconforto do asfalto sem o drama mental",
+          "hook_provocative": "o sofrimento de quem briga com a realidade da cidade",
+          "id": "0007-a691-02",
+          "length": 339,
+          "number": 2,
+          "question": "Essa vigilância com a qualidade do ar me deixa tenso até pra abrir a janela de casa, fico achando que a fuligem tá entrando e estragando meu pulmão. A mente fica buscando culpados políticos ou culpados industriais, gerando um estresse que não limpa o ar de fora. Como que larga essa revolta contra o ambiente pra ter um segundo de sossego?"
+        }
+      ],
+      "persona_hash": "a6913c4a1ba3"
+    },
+    {
+      "author_name": "Joyce",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que o cancelamento do motorista te tira do eixo?",
+          "hook_imperative": "pare de exigir que o trânsito obedeça sua pressa",
+          "hook_provocative": "o apego rígido aos minutos que te faz surtar no mapa",
+          "id": "0007-c373-01",
+          "length": 414,
+          "number": 1,
+          "question": "Marcos A vida moderna virou... um teste de paciência insuportável no celular. Eu tava atrasada pro compromisso, vendo o carro do aplicativo se aproximar no mapa, e o motorista cancelou a corrida na minha cara a duas quadras daqui. O ódio subiu na hora, deu vontade de jogar o aparelho longe com essa falta de respeito. Como aplica o trabalho do caminho infinito se a irresponsabilidade alheia sabota o teu horário?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "quem é que não pode esperar mais cinco minutos?",
+          "hook_imperative": "espere o próximo carro sem o diálogo da queixa",
+          "hook_provocative": "a intolerância do ego com os desvios do cotidiano",
+          "id": "0007-c373-02",
+          "length": 323,
+          "number": 2,
+          "question": "Fiquei na calçada bufando de raiva esperando outro carro, a mente xingando a plataforma e criando a desculpa perfeita que eu ia dar pelo meu atraso. A sensação de impotência diante da tela estragou o meu começo de noite. Como que faz pra aceitar esse contrafluxo da rotina sem deixar a contrariedade travar o corpo inteiro?"
+        }
+      ],
+      "persona_hash": "c3737e146d09"
+    },
+    {
+      "author_name": "Raimundo",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que a ausência do outro te esvazia por completo?",
+          "hook_imperative": "sinta a sua solidão sem buscar apego em ninguém",
+          "hook_provocative": "a armadilha de usar o relacionamento como anestesia",
+          "id": "0007-c37c-01",
+          "length": 387,
+          "number": 1,
+          "question": "Marcos Não é bem assim que a banda toca, o absoluto é... bonito na palestra, mas no cotidiano o buraco é de solidão. Sinto um medo absurdo de ficar sozinho, uma dependência terrível de ter alguém do lado pra validar minha existência ou aprovar o que eu faço, se ela se afasta o chão some. Como que lida com esse vazio que dói no peito quando não tem ninguém suprindo a carência da gente?"
+        },
+        {
+          "domains": [
+            "individual-existencial",
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "o medo de perder o outro ou o pânico de si mesmo?",
+          "hook_imperative": "corte a vigília do celular e encare o seu silêncio",
+          "hook_provocative": "o ego pedinte que busca salvação no afeto alheia",
+          "id": "0007-c37c-02",
+          "length": 320,
+          "number": 2,
+          "question": "Fico mendigando atenção por mensagem, checando o celular toda hora pra ver se fui respondido, um comportamento humilhante que eu não consigo parar. A mente projeta que se a relação acabar eu vou sumir, que não dou conta de viver comigo mesmo. Como que quebra esse grude psicológico que transforma o parceiro num refúgio?"
+        }
+      ],
+      "persona_hash": "c37cc55a0193"
+    },
+    {
+      "author_name": "Benjamin",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como meditar com a quebra da estrutura doméstica?",
+          "hook_imperative": "encare o eletrodoméstico quebrado sem o drama da falta",
+          "hook_provocative": "o pânico da perda material paralisando o seu presente",
+          "id": "0007-7c3d-01",
+          "length": 412,
+          "number": 1,
+          "question": "Gualberto me ajuda ai pq as divida nao deixa eu... focar em meditação nenhuma, o corre é bruto. Do nada minha geladeira começou a estalar alto e parou de gelar as coisas, as compras perdendo e eu sem limite no cartão pra consertar ou comprar outra agora. Você fala que a vida é meditação, mas com a comida estragando e o prejuízo batendo, o pensamento vira um inferno de preocupação. Como fica calmo na escassez?"
+        },
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que a quebra de um objeto revela sobre sua mente?",
+          "hook_imperative": "observe a futilidade da queixa e resolva o fato",
+          "hook_provocative": "a ilusão de estabilidade que desaba com um barulho",
+          "id": "0007-7c3d-02",
+          "length": 329,
+          "number": 2,
+          "question": "O barulho estranho do motor me dá uma agonia danada, passo o dia pensando na despesa imprevista que vai quebrar o resto do mês. A mente fica procurando culpados pela falta de grana, uma revolta que não arruma o motor de ninguém. Como aceitar esse imprevisto material chato sem deixar o desespero financeiro tomar conta da cabeça?"
+        }
+      ],
+      "persona_hash": "7c3d9bc767db"
+    }
+  ],
+  "source_file": "cenario_0007.md",
+  "template_id": "004.md"
+}

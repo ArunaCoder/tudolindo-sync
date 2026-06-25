@@ -1,0 +1,585 @@
+{
+  "ia_agent": "curtas_gemini_3.5_flash_v1",
+  "personas": [
+    {
+      "author_name": "Fernanda",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que planejar o futuro sabota sua mente?",
+          "hook_imperative": "pare de viver num futuro que não existe",
+          "hook_provocative": "a farsa do amanhã que destrói o hoje",
+          "id": "0015-ae9d-01",
+          "length": 145,
+          "number": 1,
+          "question": "Mestre Forma violenta, mas cirúrgica de expor que o amanhã não existe, mas como a mente para de projetar o futuro se fomos criados para planejar?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "rituais espirituais impedem o despertar real?",
+          "hook_imperative": "abandone a busca por evolução espiritual",
+          "hook_provocative": "o engano de adiar a iluminação para amanhã",
+          "id": "0015-ae9d-02",
+          "length": 124,
+          "number": 2,
+          "question": "Se o despertar só acontece agora, insistir em técnicas e rituais para evoluir depois não é apenas mais uma distração do ego?"
+        }
+      ],
+      "persona_hash": "ae9d2e184a26"
+    },
+    {
+      "author_name": "Thomas",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem é a voz que fala dentro da sua cabeça?",
+          "hook_imperative": "descubra a testemunha silenciosa dos pensamentos",
+          "hook_provocative": "a grande mentira sobre quem você pensa que é",
+          "id": "0015-9ba5-01",
+          "length": 138,
+          "number": 1,
+          "question": "Marcos Minha linha de raciocínio se perdeu quando você disse que não sou meus pensamentos, então quem está observando essa bagunça mental?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o sofrimento diário parece tão real?",
+          "hook_imperative": "quebre o hábito de se misturar com os problemas",
+          "hook_provocative": "a mecanicidade oculta que te prende ao ego",
+          "id": "0015-9ba5-02",
+          "length": 123,
+          "number": 2,
+          "question": "Se a consciência é o que eu sou de verdade, por que a identificação com os problemas do cotidiano é tão automática e forte?"
+        }
+      ],
+      "persona_hash": "9ba50083c5a2"
+    },
+    {
+      "author_name": "Geraldo",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o eu superior é apenas uma ilusão espiritual?",
+          "hook_imperative": "livre-se das teorias que alimentam seu orgulho",
+          "hook_provocative": "a vaidade oculta por trás dos conceitos místicos",
+          "id": "0015-abce-01",
+          "length": 153,
+          "number": 1,
+          "question": "Marcos meio q bugou a minha mente dpois q eu li sobre essa ideia de eu superior, isso não é só mais uma fantasia que o ego criou para se sentir especial?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a mente consegue experimentar a verdade?",
+          "hook_imperative": "silencie a necessidade de decifrar o absoluto",
+          "hook_provocative": "o erro de tentar entender deus com o intelecto",
+          "id": "0015-abce-02",
+          "length": 115,
+          "number": 2,
+          "question": "Se toda tentativa de alcançar o divino vem da mente, como pode haver uma percepção real sem o filtro do pensamento?"
+        }
+      ],
+      "persona_hash": "abce59e33cf8"
+    },
+    {
+      "author_name": "Marcelo",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como a sua autoimagem te afasta de deus?",
+          "hook_imperative": "abandone a máscara que você chama de eu",
+          "hook_provocative": "a farsa de buscar o divino mantendo o ego",
+          "id": "0015-ae8c-01",
+          "length": 143,
+          "number": 1,
+          "question": "Marcos Acho que faltou detalhar um pouco mais como a autoimagem bloqueia o contato com o sagrado, já que o ego sempre quer uma resposta lógica?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você tem medo de esquecer o passado?",
+          "hook_imperative": "encare o vazio de não ser ninguém",
+          "hook_provocative": "o apego doentio à sua própria história de vida",
+          "id": "0015-ae8c-02",
+          "length": 120,
+          "number": 2,
+          "question": "Se encontrar o absoluto exige o fim da identidade, por que a mente humana tem tanto pavor de abrir mão de suas memórias?"
+        }
+      ],
+      "persona_hash": "ae8c77fb14cf"
+    },
+    {
+      "author_name": "Aparecida",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "é possível viver sem nenhum hábito mental?",
+          "hook_imperative": "rompa com a programação mecânica do passado",
+          "hook_provocative": "a repetição invisível que governa suas escolhas",
+          "id": "0015-a6cb-01",
+          "length": 150,
+          "number": 1,
+          "question": "Marcos Tive um insight incrível ao perceber que repito reações automáticas da infância, mas como quebrar esse condicionamento sem criar novos hábitos?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que resta de você sem o condicionamento?",
+          "hook_imperative": "enxergue as paredes da sua prisão cultural",
+          "hook_provocative": "a ilusão de autonomia em uma mente programada",
+          "id": "0015-a6cb-02",
+          "length": 121,
+          "number": 2,
+          "question": "Se toda a nossa estrutura psicológica é moldada pela sociedade, a liberdade real exige rejeitar tudo o que nos ensinaram?"
+        }
+      ],
+      "persona_hash": "a6cb69cfec10"
+    },
+    {
+      "author_name": "Filomena",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a necessidade financeira escraviza a sua mente?",
+          "hook_imperative": "separe a sobrevivência real do pânico mental",
+          "hook_provocative": "o medo da escassez que alimenta o ego",
+          "id": "0015-f801-01",
+          "length": 137,
+          "number": 1,
+          "question": "Como enxergar a ilusão do dinheiro se sem ele eu não compro comida, a mente não usa essa necessidade física para criar tempo psicológico?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a pressa destrói a sua percepção?",
+          "hook_imperative": "cesse a ilusória urgência gerada pela memória",
+          "hook_provocative": "a armadilha de viver correndo atrás do vento",
+          "id": "0015-f801-02",
+          "length": 126,
+          "number": 2,
+          "question": "Se o tempo psicológico é uma invenção do pensamento, por que a nossa rotina diária parece uma corrida eterna contra o relógio?"
+        }
+      ],
+      "persona_hash": "f801d63aa3c1"
+    },
+    {
+      "author_name": "Lucca",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o fim do ego causa tanto pavor?",
+          "hook_imperative": "perca o controle para encontrar a paz",
+          "hook_provocative": "a necessidade doentia de controlar a própria vida",
+          "id": "0015-e99c-01",
+          "length": 134,
+          "number": 1,
+          "question": "Mestre Dá uma agonia foda ouvir você falar sobre o fim do eu, porque parece que se eu perder o controle da minha mente eu piro de vez?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o fim da rejeição extingue o sofrimento?",
+          "hook_imperative": "pare de lutar contra os fatos da vida",
+          "hook_provocative": "a teimosia mental que prefere a dor à verdade",
+          "id": "0015-e99c-02",
+          "length": 126,
+          "number": 2,
+          "question": "Se o sofrimento nasce na mente egoica quando ela rejeita a realidade, a dor psicológica acaba na hora em que aceitamos o fato?"
+        }
+      ],
+      "persona_hash": "e99cf51bc9b1"
+    },
+    {
+      "author_name": "Adriana",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a felicidade depende do fim dos problemas?",
+          "hook_imperative": "encontre o bem-estar no meio do caos",
+          "hook_provocative": "o erro de condicionar a paz a uma vida ideal",
+          "id": "0015-78e3-01",
+          "length": 136,
+          "number": 1,
+          "question": "Gualberto mais como ter paz se nao estou bem com as minhas condições atuais, a felicidade não depende de resolver os problemas primeiro?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a busca pelo prazer produz a sua infelicidade?",
+          "hook_imperative": "cesse o desejo de se sentir bem o tempo todo",
+          "hook_provocative": "a armadilha de tentar fabricar um estado de alegria",
+          "id": "0015-78e3-02",
+          "length": 127,
+          "number": 2,
+          "question": "Se a busca externa por satisfação é o que gera frustração, o desejo de ser feliz é o maior obstáculo para a própria felicidade?"
+        }
+      ],
+      "persona_hash": "78e36ff530ec"
+    },
+    {
+      "author_name": "Ryan",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que as conquistas te deixam vazio?",
+          "hook_imperative": "pare de buscar felicidade fora do agora",
+          "hook_provocative": "a ilusão do sucesso como fonte de alegria",
+          "id": "0015-2c75-01",
+          "length": 120,
+          "number": 1,
+          "question": "tipo me da um norte ai pq nao consigo ver graça em nada, se a felicidade não está no prazer das conquistas, ela tá onde?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a cobrança social esmagou o seu bem-estar?",
+          "hook_imperative": "rejeite os modelos de satisfação do mundo",
+          "hook_provocative": "o engano de confundir euforia com paz real",
+          "id": "0015-2c75-02",
+          "length": 124,
+          "number": 2,
+          "question": "Se o conceito de felicidade da sociedade é apenas consumo e distração, como a mente se desliga dessa cobrança sem se isolar?"
+        }
+      ],
+      "persona_hash": "2c75a141469f"
+    },
+    {
+      "author_name": "Murilo",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "a filosofia não dualista resiste às contas diárias?",
+          "hook_imperative": "não use os problemas práticos como desculpa",
+          "hook_provocative": "o choque entre a verdade espiritual e os boletos",
+          "id": "0015-3179-01",
+          "length": 125,
+          "number": 1,
+          "question": "Marcos Como costura essa paz do absoluto com a conta de luz atrasada, dá para ficar em satsang quando a sobrevivência aperta?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que dividimos a vida entre sagrado e profano?",
+          "hook_imperative": "enxergue a unidade por trás das obrigações",
+          "hook_provocative": "o truque do ego para manter a dualidade viva",
+          "id": "0015-3179-02",
+          "length": 123,
+          "number": 2,
+          "question": "Se a não dualidade afirma que não há separação, por que a mente insiste em criar um abismo entre o espiritual e o material?"
+        }
+      ],
+      "persona_hash": "31797af07cf9"
+    },
+    {
+      "author_name": "Érika",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que os seus pesadelos revelam sobre o ego?",
+          "hook_imperative": "observe a sua mente enquanto está acordada",
+          "hook_provocative": "a perturbação noturna fruto da inconsciência diária",
+          "id": "0015-1c33-01",
+          "length": 145,
+          "number": 1,
+          "question": "Gualberto Acho que faltou detalhar um pouco mais se os pesadelos são o lixo do inconsciente tentando alertar sobre a nossa mecanicidade acordada?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o medo oculto desperta no escuro?",
+          "hook_imperative": "enfrente os fantasmas da sua mente acordada",
+          "hook_provocative": "a ilusão de segurança que desmorona no sono",
+          "id": "0015-1c33-02",
+          "length": 128,
+          "number": 2,
+          "question": "Se o medo diurno é reprimido pelo pensamento, os sobressaltos da noite são apenas a mente egoica tentando manter a continuidade?"
+        }
+      ],
+      "persona_hash": "1c33f16ce62e"
+    },
+    {
+      "author_name": "Luan",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "rendição ao agora significa ficar inerte?",
+          "hook_imperative": "não confunda preguiça com paz interior",
+          "hook_provocative": "a falsa passividade que imita o silêncio real",
+          "id": "0015-2ea2-01",
+          "length": 140,
+          "number": 1,
+          "question": "Cuidado pra não confundir essa paralisia mental com o verdadeiro estado de rendição, porque aceitar tudo passivamente não é covardia do ego?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que acontece se você parar de resistir?",
+          "hook_imperative": "renda-se à realidade exata deste instante",
+          "hook_provocative": "a teimosia crônica que sabota a sua paz",
+          "id": "0015-2ea2-02",
+          "length": 125,
+          "number": 2,
+          "question": "Se a resistência ao momento presente gera sofrimento, render-se é o ato de olhar o fato sem nenhuma interferência da memória?"
+        }
+      ],
+      "persona_hash": "2ea25f7be773"
+    },
+    {
+      "author_name": "Catarina",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "tentar se corrigir divide ainda mais a mente?",
+          "hook_imperative": "pare de se julgar entre certo e errado",
+          "hook_provocative": "a farsa do aprimoramento moral do ego",
+          "id": "0015-f3cf-01",
+          "length": 133,
+          "number": 1,
+          "question": "Marcos Tentei aplicar o que você falou e dividi minha mente entre o eu bonzinho e o eu ruim, essa dualidade não é o próprio problema?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a linguagem impede a percepção da unidade?",
+          "hook_imperative": "olhe sem nomear o que está diante de você",
+          "hook_provocative": "o labirinto mental de tentar rotular a verdade",
+          "id": "0015-f3cf-02",
+          "length": 130,
+          "number": 2,
+          "question": "Se o pensamento dualista cria o observador e a coisa observada, como cessar essa divisão se a linguagem humana é toda fragmentada?"
+        }
+      ],
+      "persona_hash": "f3cf3688af07"
+    },
+    {
+      "author_name": "Marcelo",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "dá para frear a reação de um ego ferido?",
+          "hook_imperative": "observe a humilhação sem revidar o golpe",
+          "hook_provocative": "o orgulho cego que destrói as suas relações",
+          "id": "0015-bb63-01",
+          "length": 120,
+          "number": 1,
+          "question": "Onde fica a consciência quando o ego ferido reage com ódio instantâneo, dá tempo de parar o impulso antes da destruição?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a opinião alheia te machuca tanto?",
+          "hook_imperative": "deixe que desfaçam a sua autoimagem falsa",
+          "hook_provocative": "a fragilidade de viver defendendo uma farsa",
+          "id": "0015-bb63-02",
+          "length": 107,
+          "number": 2,
+          "question": "Se a imagem que construímos de nós mesmos é vulnerável, o sofrimento da rejeição é a quebra de uma mentira?"
+        }
+      ],
+      "persona_hash": "bb63521ba3c8"
+    },
+    {
+      "author_name": "Éverton",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "a convivência familiar sabota a espiritualidade?",
+          "hook_imperative": "encontre o divino fora dos papéis familiares",
+          "hook_provocative": "o apego doméstico que te prende na ilusão",
+          "id": "0015-85cf-01",
+          "length": 138,
+          "number": 1,
+          "question": "às vezes dá um nó na cabeça tentar conciliar os estudos e a família com essa verdade divina, o ambiente familiar não puxa a gente pro ego?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "você usa a rotina para fugir da verdade?",
+          "hook_imperative": "desperte no meio dos seus afazeres diários",
+          "hook_provocative": "a desculpa perfeita do cansaço para não acordar",
+          "id": "0015-85cf-02",
+          "length": 122,
+          "number": 2,
+          "question": "Se a verdade divina está além das obrigações mundanas, o nosso erro é usar o cotidiano para justificar a falta de atenção?"
+        }
+      ],
+      "persona_hash": "85cf1d846fff"
+    },
+    {
+      "author_name": "Jefferson",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "de onde nasce o vazio do fim de tarde?",
+          "hook_imperative": "cesse a busca por preenchimento externo",
+          "hook_provocative": "a cegueira mental que ignora a presença real",
+          "id": "0015-5352-01",
+          "length": 134,
+          "number": 1,
+          "question": "Marcos Fiquei em dúvida quanto a essa presença divina, se ela é constante, por que a mente passa o dia se sentindo abandonada e vazia?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "seus desejos servem para calar o silêncio?",
+          "hook_imperative": "fique quieto sem tentar se distrair",
+          "hook_provocative": "o medo inconsciente da quietude absoluta",
+          "id": "0015-5352-02",
+          "length": 132,
+          "number": 2,
+          "question": "Se o silêncio interior revela o absoluto, o barulho dos nossos desejos diários é uma tentativa consciente de sufocar essa percepção?"
+        }
+      ],
+      "persona_hash": "53522ee0dbb9"
+    },
+    {
+      "author_name": "Henry",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "atenção no caos é algo impossível?",
+          "hook_imperative": "assista ao seu orgulho explodir sem controle",
+          "hook_provocative": "a ilusão de meditar apenas em ambientes calmos",
+          "id": "0015-10ff-01",
+          "length": 144,
+          "number": 1,
+          "question": "Marcos Acredito que essa prática de atenção funciona melhor quando estamos calmos, porque no meio de um insulto a autoimagem reage sozinha, não?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que você faz tanta questão de estar certo?",
+          "hook_imperative": "não defenda a sua imagem do ataque alheio",
+          "hook_provocative": "a mecanicidade violenta da autodefesa mental",
+          "id": "0015-10ff-02",
+          "length": 124,
+          "number": 2,
+          "question": "Se o orgulho ferido é o que reage nas discussões, defender a honra pessoal é apenas o ego tentando garantir sua permanência?"
+        }
+      ],
+      "persona_hash": "10ff95af0331"
+    },
+    {
+      "author_name": "Evelyn",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "o amor familiar é apenas um negócio egoico?",
+          "hook_imperative": "enxergue o interesse oculto nos seus laços",
+          "hook_provocative": "a barganha de afeto nas relações de sangue",
+          "id": "0015-f306-01",
+          "length": 137,
+          "number": 1,
+          "question": "Mestre meio que ficou claro o tamanho da ilusão quando olhei para a família e vi as cobranças mútuas, as relações são só comércio de ego?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem é você sem os seus papéis domésticos?",
+          "hook_imperative": "livre-se da importância de ser necessária",
+          "hook_provocative": "o desespero do ego ao perder a utilidade social",
+          "id": "0015-f306-02",
+          "length": 122,
+          "number": 2,
+          "question": "Se a identidade egoica se alimenta do papel de mãe ou esposa, perder essas funções destrói o sentido de existir da pessoa?"
+        }
+      ],
+      "persona_hash": "f306fc43bbec"
+    },
+    {
+      "author_name": "Neuza",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a sociedade atual te força a viver doente?",
+          "hook_imperative": "saia do ritmo frenético da neurose coletiva",
+          "hook_provocative": "o estresse como sintoma de uma mente imitadora",
+          "id": "0015-568a-01",
+          "length": 142,
+          "number": 1,
+          "question": "Mestre Já parou pra pensar que a nossa civilização inteira é baseada no estresse e na competição, tem como a mente ficar limpa nesse hospício?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a meta do amanhã gera o seu esgotamento?",
+          "hook_imperative": "abandone o plano de chegar a algum lugar",
+          "hook_provocative": "o cansaço crônico de quem vive pelo resultado",
+          "id": "0015-568a-02",
+          "length": 121,
+          "number": 2,
+          "question": "Se a causa da tensão diária é a pressa de alcançar uma meta futura, relaxar sem atingir o objetivo é tolerado pela mente?"
+        }
+      ],
+      "persona_hash": "568a89f518c6"
+    }
+  ],
+  "source_file": "cenario_0015.md",
+  "template_id": "005.md"
+}

@@ -1,0 +1,615 @@
+{
+  "ia_agent": "curtas_gemini_3.5_flash_v1",
+  "personas": [
+    {
+      "author_name": "Paulo",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o cansaço do trabalho cega você?",
+          "hook_imperative": "pare de usar a rotina para fugir de si",
+          "hook_provocative": "a farsa do descanso após o expediente",
+          "id": "0013-3115-01",
+          "length": 150,
+          "number": 1,
+          "question": "Marcos A rotina de 8 horas tritura qualquer um, como dá para parar de fugir e olhar para a dor se a gente só quer um alívio rápido depois do trabalho?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "resolver problemas realmente acaba com o sofrimento?",
+          "hook_imperative": "enxergue a raiz da dor antes que ela te destrua",
+          "hook_provocative": "a ilusão de que a ação externa cura a dor interna",
+          "id": "0013-3115-02",
+          "length": 146,
+          "number": 2,
+          "question": "Se o sofrimento surge quando eu perco algo, o certo não é tentar resolver o problema prático em vez de ficar apenas olhando para onde a dor nasce?"
+        }
+      ],
+      "persona_hash": "3115ddef960a"
+    },
+    {
+      "author_name": "Antônia",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem é você sem a aprovação dos outros?",
+          "hook_imperative": "abandone a imagem que construíram de você",
+          "hook_provocative": "o vazio aterrorizante de não ter uma história",
+          "id": "0013-fef3-01",
+          "length": 166,
+          "number": 1,
+          "question": "Mestre Minha cabeça virou quando saquei que a expectativa do outro é só história da minha mente, mas quem sou eu se eu parar de contar o que os outros esperam de mim?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "é possível viver sem nenhuma memória de quem você é?",
+          "hook_imperative": "livre-se do relatório que o pensamento criou",
+          "hook_provocative": "a armadilha mental das afirmações espirituais",
+          "id": "0013-fef3-02",
+          "length": 127,
+          "number": 2,
+          "question": "Se tudo o que eu penso sobre mim é apenas um relatório da memória, como é possível viver no mundo prático sem usar o conhecido?"
+        }
+      ],
+      "persona_hash": "fef3257fd285"
+    },
+    {
+      "author_name": "Anderson",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "os livros de autoconhecimento servem para alguma coisa?",
+          "hook_imperative": "esqueça os conceitos e encare a realidade",
+          "hook_provocative": "o vício intelectual que impede a autodescoberta",
+          "id": "0013-7831-01",
+          "length": 169,
+          "number": 1,
+          "question": "Marcos Essa abordagem complementa bem o que a literatura da área diz sobre autoconhecimento, ou você está dizendo que toda teoria intelectual é inútil para a descoberta?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que bloqueia a sua capacidade de se enxergar?",
+          "hook_imperative": "desperte a sensibilidade que o pensamento cobriu",
+          "hook_provocative": "o mecanismo cego que transforma verdade em intelectualismo",
+          "id": "0013-7831-02",
+          "length": 131,
+          "number": 2,
+          "question": "Como ter essa sensibilidade interna para o autodescobrimento se a mente da gente é automática e só quer comparar termos e palavras?"
+        }
+      ],
+      "persona_hash": "7831c99dd7cc"
+    },
+    {
+      "author_name": "Murilo",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "do que realmente é feita a sua personalidade?",
+          "hook_imperative": "perceba o fantasma que você chama de eu",
+          "hook_provocative": "a farsa da identidade baseada em memórias",
+          "id": "0013-f352-01",
+          "length": 141,
+          "number": 1,
+          "question": "Se a gente olhar pra realidade prática, essa tal identidade que eu defendo tanto é só um amontoado de lembranças velhas e imagens do passado?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que tentar mudar a mente é um erro?",
+          "hook_imperative": "quebre a estrutura que sustenta o seu ego",
+          "hook_provocative": "o círculo vicioso do aprimoramento pessoal",
+          "id": "0013-f352-02",
+          "length": 129,
+          "number": 2,
+          "question": "Como desarmar esse conglomerado de ideias que forma o eu se toda tentativa de mudar também vem desse mesmo padrão de pensamentos?"
+        }
+      ],
+      "persona_hash": "f352d3cc9edc"
+    },
+    {
+      "author_name": "Wagner",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a busca pela paz é o que afasta você dela?",
+          "hook_imperative": "abandone a ideia de controlar a sua vida",
+          "hook_provocative": "o erro de transformar a liberdade em objetivo",
+          "id": "0013-144d-01",
+          "length": 160,
+          "number": 1,
+          "question": "Marcos Senti o impacto depois de perceber que busco a paz como uma meta, mas dá para experimentar a vida sem esse experimentador querendo controlar o resultado?"
+        },
+        {
+          "domains": [
+            "relacional-familiar",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que sobra do amor quando o ego some?",
+          "hook_imperative": "encontre a liberdade na ausência de si mesmo",
+          "hook_provocative": "o egoísmo oculto nas relações afetivas",
+          "id": "0013-144d-02",
+          "length": 128,
+          "number": 2,
+          "question": "Se a revelação da paz é a vida sem o peso de alguém presente, como fica o amor nas relações cotidianas sem essa cobrança egoica?"
+        }
+      ],
+      "persona_hash": "144dc271a82e"
+    },
+    {
+      "author_name": "Darcy",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "as suas crenças espirituais impedem a verdadeira inteligência?",
+          "hook_imperative": "rompa com os dogmas que confortam seu ego",
+          "hook_provocative": "o perigo de viver alimentando ilusões consoladoras",
+          "id": "0013-f199-01",
+          "length": 152,
+          "number": 1,
+          "question": "Essa visão tá meio distorcida em relação ao que a literatura prega sobre evolução, ou romper com as crenças é o único jeito de a inteligência florescer?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "quem é a voz que julga os seus pensamentos?",
+          "hook_imperative": "cesse o julgamento interno imediatamente",
+          "hook_provocative": "a armadilha do observador que finge ser livre",
+          "id": "0013-f199-02",
+          "length": 105,
+          "number": 2,
+          "question": "Como olhar para o movimento do eu sem criar a figura de um observador que fica julgando tudo o que sinto?"
+        }
+      ],
+      "persona_hash": "f19930d2d72f"
+    },
+    {
+      "author_name": "Paloma",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a sua mente tem medo do silêncio?",
+          "hook_imperative": "enxergue o jogo que a sua mente joga",
+          "hook_provocative": "o truque secreto do pensamento para sobreviver",
+          "id": "0013-aecb-01",
+          "length": 144,
+          "number": 1,
+          "question": "Na hora que parei pra fechar os olhos no ônibus, veio o estalo de que o pensamento cria o pensador só para não morrer, mas como frear esse jogo?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que acontece se o seu passado sumir agora?",
+          "hook_imperative": "deixe o pensamento acabar neste exato momento",
+          "hook_provocative": "a ilusão de continuidade que alimenta o medo",
+          "id": "0013-aecb-02",
+          "length": 131,
+          "number": 2,
+          "question": "Se o condicionamento do passado cria o pensador para manter a continuidade, a verdade desse instante exige a morte dessa estrutura?"
+        }
+      ],
+      "persona_hash": "aecba5ce7178"
+    },
+    {
+      "author_name": "Ana",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que resta da vida se você parar de planejar?",
+          "hook_imperative": "pare de projetar o seu futuro na memória",
+          "hook_provocative": "o medo inconsciente de viver sem uma direção",
+          "id": "0013-b869-01",
+          "length": 140,
+          "number": 1,
+          "question": "Sinto isso no fundo, mas sem o pensamento para contar histórias e idealizar o futuro, a vida prática não vira um completo vazio sem direção?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "é possível trabalhar e viver sem a ilusão do eu?",
+          "hook_imperative": "experimente a realidade livre do peso do ego",
+          "hook_provocative": "o peso invisível de carregar uma identidade",
+          "id": "0013-b869-02",
+          "length": 124,
+          "number": 2,
+          "question": "Se o contato com o puro ser só ocorre quando o elemento eu não está, como agir no cotidiano sem essa sensação de identidade?"
+        }
+      ],
+      "persona_hash": "b86950b07e53"
+    },
+    {
+      "author_name": "Nicole",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você acredita em tudo o que sente?",
+          "hook_imperative": "saia do modelo mecânico do seu pensamento",
+          "hook_provocative": "a prisão invisível da identificação emocional",
+          "id": "0013-8999-01",
+          "length": 128,
+          "number": 1,
+          "question": "Gualberto Alguém tem uma saída real para essa ignorância de se identificar o tempo todo com o modelo do pensamento e as emoções?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "você é o pensador ou apenas o pensamento?",
+          "hook_imperative": "descubra quem você é fora da mente",
+          "hook_provocative": "a mentira que sustenta a sua vida mental",
+          "id": "0013-8999-02",
+          "length": 132,
+          "number": 2,
+          "question": "Se a nossa ilusão de ser o pensador é criada pelo próprio pensamento para se sustentar, onde começa o verdadeiro conhecimento de si?"
+        }
+      ],
+      "persona_hash": "8999ac85a1b8"
+    },
+    {
+      "author_name": "Roberto",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você tenta controlar os momentos de paz?",
+          "hook_imperative": "não tente reter o que a mente não alcança",
+          "hook_provocative": "o erro de querer entender o desconhecido",
+          "id": "0013-0ac8-01",
+          "length": 160,
+          "number": 1,
+          "question": "A conexão foi instantânea, mas se essa nova condição sem conflito é inteiramente desconhecida para a mente, como a gente não tenta agarrar ela com o pensamento?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o sofrimento é uma invenção da sua mente?",
+          "hook_imperative": "fique apenas com o que é real agora",
+          "hook_provocative": "a farsa das soluções criadas pelo pensamento",
+          "id": "0013-0ac8-02",
+          "length": 134,
+          "number": 2,
+          "question": "Se a liberdade e o amor não são criados pelo pensamento, o sofrimento só existe porque a mente tenta fabricar a sua própria realidade?"
+        }
+      ],
+      "persona_hash": "0ac84f99aacf"
+    },
+    {
+      "author_name": "Kauan",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "as metas sociais estão destruindo a sua mente?",
+          "hook_imperative": "livre-se da ilusão do tempo psicológico",
+          "hook_provocative": "a armadilha de viver em função do amanhã",
+          "id": "0013-f5dc-01",
+          "length": 154,
+          "number": 1,
+          "question": "Que interessante como a gente se molda aos prazos, mas dá para viver livre do tempo psicológico quando a sociedade exige metas e conquistas para o futuro?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que falta para você ser feliz agora?",
+          "hook_imperative": "enxergue a suficiência deste exato momento",
+          "hook_provocative": "a mentira da completude através da conquista",
+          "id": "0013-f5dc-02",
+          "length": 140,
+          "number": 2,
+          "question": "Se a felicidade está presente neste instante, por que a mente insiste na ilusão básica de que precisamos de algo mais para sermos completos?"
+        }
+      ],
+      "persona_hash": "f5dc1c5aff45"
+    },
+    {
+      "author_name": "Roberta",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o isolamento interno gera tanto medo?",
+          "hook_imperative": "encerre o movimento que te separa do mundo",
+          "hook_provocative": "a dor oculta por trás do autocentramento egoico",
+          "id": "0013-f7c9-01",
+          "length": 143,
+          "number": 1,
+          "question": "A vida é puro movimento, mas como romper com esse autocentramento que gera medo e insatisfação se a gente se sente totalmente separada de tudo?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "seus projetos de vida são apenas fugas do ego?",
+          "hook_imperative": "encare o fim da identidade que você protege",
+          "hook_provocative": "a ignorância disfarçada de evolução pessoal",
+          "id": "0013-f7c9-02",
+          "length": 133,
+          "number": 2,
+          "question": "Se a iluminação espiritual é o fim dessa condição ilusória de identidade, por que o eu insiste em criar projetos para se manter vivo?"
+        }
+      ],
+      "persona_hash": "f7c9f2ac0a73"
+    },
+    {
+      "author_name": "Rosângela",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a sua mente consegue viver fora do calendário?",
+          "hook_imperative": "perceba que o presente foge do pensamento",
+          "hook_provocative": "a ilusão de controlar o tempo através de ideias",
+          "id": "0013-d598-01",
+          "length": 154,
+          "number": 1,
+          "question": "Marcos Acho que o discurso ignorou a nossa rotina, porque como aceitar que o presente não faz parte do pensamento se o tempo todo planejamos o calendário?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que pensamentos velhos governam o seu dia?",
+          "hook_imperative": "desmonte a linha do tempo que te aprisiona",
+          "hook_provocative": "o peso fantasma do passado e do futuro na mente",
+          "id": "0013-d598-02",
+          "length": 126,
+          "number": 2,
+          "question": "Se o passado é só lembrança e o futuro é só ideia, por que essa estrutura ilusória tem tanto poder sobre o nosso estado atual?"
+        }
+      ],
+      "persona_hash": "d598ee68da20"
+    },
+    {
+      "author_name": "Denise",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que nenhum consumo acalma o seu vazio?",
+          "hook_imperative": "enfrente a insuficiência crônica do seu ego",
+          "hook_provocative": "a farsa do preenchimento através de desejos humanos",
+          "id": "0013-b6ed-01",
+          "length": 143,
+          "number": 1,
+          "question": "as veses eu sinto um vazio muito grande e percebo que nenhuma propaganda ou consumo social consegue dar fim a essa insuficiência, isso é o ego?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "você foi programado para viver insatisfeito?",
+          "hook_imperative": "quebre o padrão de comportamento repetitivo",
+          "hook_provocative": "o condicionamento social que cega a sua percepção",
+          "id": "0013-b6ed-02",
+          "length": 124,
+          "number": 2,
+          "question": "Como tomar ciência clara desse padrão cultural repetitivo se a gente foi educada desde sempre para procurar satisfação fora?"
+        }
+      ],
+      "persona_hash": "b6ed01c1ff00"
+    },
+    {
+      "author_name": "Gisele",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que sobra quando a sua história desaparece?",
+          "hook_imperative": "aceite a impermanência da sua vida humana",
+          "hook_provocative": "o desespero do ego diante do fim do tempo",
+          "id": "0013-b941-01",
+          "length": 143,
+          "number": 1,
+          "question": "Mestre Não dá pra engolir essa parte sobre tudo desaparecer com o tempo, porque se a minha história de vida vai embora, qual o sentido de tudo?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a sua mente sabota o fim do sofrimento?",
+          "hook_imperative": "deixe morrer o sentido do eu que sofre",
+          "hook_provocative": "a resistência oculta do ego contra o despertar",
+          "id": "0013-b941-02",
+          "length": 133,
+          "number": 2,
+          "question": "Se compreender a natureza do sofrimento psicológico significa o fim do eu, a mente não vai lutar com todas as forças contra esse fim?"
+        }
+      ],
+      "persona_hash": "b941c1cad3e3"
+    },
+    {
+      "author_name": "Sheila",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a sua mente repete os mesmos erros?",
+          "hook_imperative": "corte o ciclo mecânico do pensamento repetitivo",
+          "hook_provocative": "o tédio crônico de uma vida baseada em memórias",
+          "id": "0013-7d80-01",
+          "length": 146,
+          "number": 1,
+          "question": "Gualberto Como quebra o ciclo de ficar remoendo o passado na hora do descanso se a mente centrada no pensamento repete sempre a mesma contradição?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como seria a sua vida sem nenhuma divisão interna?",
+          "hook_imperative": "olhe a vida a partir do espaço sem divisão",
+          "hook_provocative": "a ilusão de que há alguém separado da realidade",
+          "id": "0013-7d80-02",
+          "length": 138,
+          "number": 2,
+          "question": "Se viver livre do pensamento significa que o observador não tem nada para julgar, como experimentar o puro ser no meio da confusão diária?"
+        }
+      ],
+      "persona_hash": "7d80d08dea50"
+    },
+    {
+      "author_name": "Bernardo",
+      "items": [
+        {
+          "domains": [
+            "financeiro-material",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a ambição profissional sustenta a sua ilusão?",
+          "hook_imperative": "anule a ilusão do tempo na sua mente",
+          "hook_provocative": "o preço destrutivo de querer vir a ser alguém",
+          "id": "0013-3ca3-01",
+          "length": 142,
+          "number": 1,
+          "question": "Marcos A vida hoje em dia parece exigir que a gente queira se tornar alguém, então como anular esse tempo psicológico sem arruinar a carreira?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que você busca evolução interna através do tempo?",
+          "hook_imperative": "pare de caminhar em direção a um futuro falso",
+          "hook_provocative": "o erro de transpor o relógio para a alma",
+          "id": "0013-3ca3-02",
+          "length": 125,
+          "number": 2,
+          "question": "Se a evolução psicofísica é cronológica, por que a mente projeta essa necessidade de alcançar metas para o campo psicológico?"
+        }
+      ],
+      "persona_hash": "3ca3ff860b5c"
+    },
+    {
+      "author_name": "Regina",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante",
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que acontece quando você para de buscar?",
+          "hook_imperative": "encerre a busca espiritual externa agora",
+          "hook_provocative": "a farsa do crescimento pessoal que nunca chega",
+          "id": "0013-9596-01",
+          "length": 146,
+          "number": 1,
+          "question": "Gualberto Senti um negócio diferente ao ouvir sobre o fim da busca, mas se não é para procurar nada, o que eu faço com a vontade de mudar de vida?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o seu autoconhecimento é apenas autocrítica?",
+          "hook_imperative": "observe a si mesma sem tentar se corrigir",
+          "hook_provocative": "a armadilha de usar o estudo do eu para se policiar",
+          "id": "0013-9596-02",
+          "length": 115,
+          "number": 2,
+          "question": "Como olhar para o movimento dessa egoidentidade sem transformar esse estudo em uma nova forma de controle da mente?"
+        }
+      ],
+      "persona_hash": "959694399d98"
+    },
+    {
+      "author_name": "Simone",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que a sua mente transforma fatos em problemas?",
+          "hook_imperative": "rompa com a mania de problematizar a vida",
+          "hook_provocative": "a neurose diária de lutar contra a realidade",
+          "id": "0013-1817-01",
+          "length": 135,
+          "number": 1,
+          "question": "Como é real o que você disse sobre a chuva, mas como romper com os problemas se a mente da gente foi moldada para ver tudo como ameaça?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "mudar a sua perspectiva realmente resolve algo?",
+          "hook_imperative": "enxergue o movimento da vida sem filtros",
+          "hook_provocative": "a farsa do pensamento positivo contra o sofrimento",
+          "id": "0013-1817-02",
+          "length": 119,
+          "number": 2,
+          "question": "Se os problemas da vida dependem apenas do meu modo de olhar, mudar o pensamento resolve ou é só mais um truque do ego?"
+        }
+      ],
+      "persona_hash": "181755272a23"
+    },
+    {
+      "author_name": "Vanderlei",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que o mundo exterior reflete a sua mente?",
+          "hook_imperative": "cesse a repetição do padrão humano em você",
+          "hook_provocative": "a ilusão de que a sociedade é a culpada pela sua dor",
+          "id": "0013-e18e-01",
+          "length": 143,
+          "number": 1,
+          "question": "Acho que o discurso ignorou a força da sociedade, porque como parar a repetição interna se o mundo lá fora esmaga a gente com a mesma confusão?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como quebrar um hábito que move toda a sociedade?",
+          "hook_imperative": "termine com a confusão interna imediatamente",
+          "hook_provocative": "a ingenuidade de tentar mudar o mundo sem mudar o eu",
+          "id": "0013-e18e-02",
+          "length": 135,
+          "number": 2,
+          "question": "Se cada um de nós é a extensão do mundo, o fim desse padrão de continuidade exige um isolamento total ou uma quebra radical de hábitos?"
+        }
+      ],
+      "persona_hash": "e18edbe80b10"
+    }
+  ],
+  "source_file": "cenario_0013.md",
+  "template_id": "006.md"
+}

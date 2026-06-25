@@ -1,0 +1,607 @@
+{
+  "ia_agent": "curtas_gemini_3.5_flash_v1",
+  "personas": [
+    {
+      "author_name": "Paulo",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que nada nunca é suficiente?",
+          "hook_imperative": "pare de projetar sua dor",
+          "hook_provocative": "sua insatisfação é uma mentira",
+          "id": "0018-db48-01",
+          "length": 115,
+          "number": 1,
+          "question": "Marcos por que você diz que minha insatisfação é uma projeção minha e não a realidade da vida difícil que enfrento?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "como viver sem o desejo de mudar?",
+          "hook_imperative": "abandone a ideia de ser alguém",
+          "hook_provocative": "o vício da mudança te destrói",
+          "id": "0018-db48-02",
+          "length": 111,
+          "number": 2,
+          "question": "Se o pensamento cria essa dor contínua, como vivo na prática sem ser arrastado por essa necessidade de mudança?"
+        }
+      ],
+      "persona_hash": "db483a451303"
+    },
+    {
+      "author_name": "Naomi",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o fim do 'eu' é possível?",
+          "hook_imperative": "elimine a ilusão do pensador",
+          "hook_provocative": "sua identidade é um obstáculo",
+          "id": "0018-dbbe-01",
+          "length": 109,
+          "number": 1,
+          "question": "Gualberto como posso viver sem esse 'mim' se minha vida prática depende dessa identidade para tomar decisões?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o que existe além do pensamento?",
+          "hook_imperative": "observe a sua própria mente",
+          "hook_provocative": "a paralisia da mente egoica",
+          "id": "0018-dbbe-02",
+          "length": 96,
+          "number": 2,
+          "question": "Se a vida é o agora sem esse 'eu', por que me sinto tão paralisada quando tento parar de pensar?"
+        }
+      ],
+      "persona_hash": "dbbe0c693431"
+    },
+    {
+      "author_name": "Heloísa",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que não entendemos ninguém?",
+          "hook_imperative": "entenda-se antes de julgar",
+          "hook_provocative": "o caos dos seus relacionamentos",
+          "id": "0018-4bf7-01",
+          "length": 138,
+          "number": 1,
+          "question": "Mestre quando você diz que não me entendo, quer dizer que meus problemas nos relacionamentos são apenas reflexo da minha própria confusão?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a ansiedade pode ser curada?",
+          "hook_imperative": "encontre a clareza hoje",
+          "hook_provocative": "seu modo de sentir é o problema",
+          "id": "0018-4bf7-02",
+          "length": 95,
+          "number": 2,
+          "question": "Como ter lucidez nas minhas relações se tudo o que sinto é essa ansiedade que nunca vai embora?"
+        }
+      ],
+      "persona_hash": "4bf7763e6225"
+    },
+    {
+      "author_name": "Gilmar",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que é realmente a morte?",
+          "hook_imperative": "enfrente o fim das ilusões",
+          "hook_provocative": "o medo da não continuidade",
+          "id": "0018-c10c-01",
+          "length": 113,
+          "number": 1,
+          "question": "Gualberto caso a morte seja só um pensamento, por que sinto esse pavor real toda vez que penso no fim das coisas?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "por que sofremos com perdas?",
+          "hook_imperative": "solte o que nunca foi seu",
+          "hook_provocative": "você não possui nada",
+          "id": "0018-c10c-02",
+          "length": 89,
+          "number": 2,
+          "question": "Se nada disso é real, como lido com a perda das pessoas que eu amo sem me sentir um nada?"
+        }
+      ],
+      "persona_hash": "c10c7c18b84d"
+    },
+    {
+      "author_name": "Alex",
+      "items": [
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "a memória protege ou aprisiona?",
+          "hook_imperative": "liberte-se do passado",
+          "hook_provocative": "sua confiança é uma ilusão",
+          "id": "0018-f85c-01",
+          "length": 113,
+          "number": 1,
+          "question": "Marcos não concordo muito, porque se eu não usar a memória sobre as pessoas, como saberei com quem posso confiar?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "você conhece mesmo o outro?",
+          "hook_imperative": "veja a realidade nua",
+          "hook_provocative": "relacionamentos são imagens",
+          "id": "0018-f85c-02",
+          "length": 97,
+          "number": 2,
+          "question": "Se o pensamento sobre o outro é apenas uma impressão, onde fica a realidade da nossa convivência?"
+        }
+      ],
+      "persona_hash": "f85c6a30e3f5"
+    },
+    {
+      "author_name": "Denise",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "o indivíduo existe de fato?",
+          "hook_imperative": "desperte no meio do caos",
+          "hook_provocative": "sua rotina é uma fuga",
+          "id": "0018-1c81-01",
+          "length": 126,
+          "number": 1,
+          "question": "O meu corre diário é intenso, como vou compreender essa consciência comum se preciso funcionar como indivíduo para sobreviver?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "somos apenas nossas memórias?",
+          "hook_imperative": "rompa com o seu histórico",
+          "hook_provocative": "a prisão da consciência pessoal",
+          "id": "0018-1c81-02",
+          "length": 93,
+          "number": 2,
+          "question": "Como não se perder nas lembranças se elas formam quem eu sou hoje para enfrentar o dia a dia?"
+        }
+      ],
+      "persona_hash": "1c812d88aab6"
+    },
+    {
+      "author_name": "Cauã",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "tudo faz sentido ou é ilusão?",
+          "hook_imperative": "questione toda certeza",
+          "hook_provocative": "a busca cega por sentido",
+          "id": "0018-0548-01",
+          "length": 109,
+          "number": 1,
+          "question": "Gualberto Quando eles dizem que tudo faz sentido, isso não é apenas mais uma crença para se sentirem seguros?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "onde encontrar a verdade?",
+          "hook_imperative": "busque fora das instituições",
+          "hook_provocative": "religião é fuga ou luz?",
+          "id": "0018-0548-02",
+          "length": 94,
+          "number": 2,
+          "question": "Como diferenciar um encontro real de apenas mais uma distração religiosa para acalmar a mente?"
+        }
+      ],
+      "persona_hash": "05483bd132a3"
+    },
+    {
+      "author_name": "Beatriz",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "existe fim para o sofrimento?",
+          "hook_imperative": "simplifique sua existência",
+          "hook_provocative": "métodos alimentam sua dor",
+          "id": "0018-dfa6-01",
+          "length": 118,
+          "number": 1,
+          "question": "Gualberto Você já pensou em falar sobre como parar de sofrer sem precisar de métodos complexos que só alimentam o ego?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como viver sem julgamentos?",
+          "hook_imperative": "aceite a vida como é",
+          "hook_provocative": "a dualidade te escraviza",
+          "id": "0018-dfa6-02",
+          "length": 92,
+          "number": 2,
+          "question": "Se a dualidade é a causa do sofrimento, como vivo no mundo prático sem separar o bem do mal?"
+        }
+      ],
+      "persona_hash": "dfa662110ed0"
+    },
+    {
+      "author_name": "Manoel",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "por que mudar causa dor?",
+          "hook_imperative": "pare de tentar mudar",
+          "hook_provocative": "a ilusão do autoaperfeiçoamento",
+          "id": "0018-9217-01",
+          "length": 95,
+          "number": 1,
+          "question": "Mestre entendi mas não compreendi! Por que a mudança que tanto busco só me afasta de mim mesmo?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "onde mora o verdadeiro silêncio?",
+          "hook_imperative": "silencie o seu pensamento",
+          "hook_provocative": "seus planos te impedem",
+          "id": "0018-9217-02",
+          "length": 87,
+          "number": 2,
+          "question": "Como posso alcançar a paz se meu próprio pensamento não me deixa um minuto em silêncio?"
+        }
+      ],
+      "persona_hash": "921707dd6d97"
+    },
+    {
+      "author_name": "Émerson",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o que é meditar de fato?",
+          "hook_imperative": "abandone a técnica agora",
+          "hook_provocative": "meditação não é um estado",
+          "id": "0018-7ba2-01",
+          "length": 95,
+          "number": 1,
+          "question": "Marcos tem como meditar de verdade sem cair na armadilha de tentar alcançar um estado especial?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que temos medo de olhar?",
+          "hook_imperative": "apenas observe-se",
+          "hook_provocative": "o medo de ser nada",
+          "id": "0018-7ba2-02",
+          "length": 77,
+          "number": 2,
+          "question": "Se não existe técnica, como eu começo a olhar para mim sem me sentir perdido?"
+        }
+      ],
+      "persona_hash": "7ba201672be3"
+    },
+    {
+      "author_name": "Juliano",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "o que define um dia bom?",
+          "hook_imperative": "veja a beleza oculta",
+          "hook_provocative": "sua rotulagem te cega",
+          "id": "0018-8726-01",
+          "length": 107,
+          "number": 1,
+          "question": "Gualberto por que insisto em rotular meu dia como ruim só porque não saiu como eu planejei na minha cabeça?"
+        },
+        {
+          "domains": [
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "como parar de julgar?",
+          "hook_imperative": "viva antes de opinar",
+          "hook_provocative": "seu juízo é uma prisão",
+          "id": "0018-8726-02",
+          "length": 88,
+          "number": 2,
+          "question": "Como desconstruir esse hábito de julgar tudo o que me acontece antes mesmo de vivenciar?"
+        }
+      ],
+      "persona_hash": "87260cc7f64c"
+    },
+    {
+      "author_name": "Matheus",
+      "items": [
+        {
+          "domains": [
+            "pratico-rotineiro"
+          ],
+          "hook_curiosity": "como sustentar a lucidez?",
+          "hook_imperative": "não volte para a ilusão",
+          "hook_provocative": "a rotina é um teste?",
+          "id": "0018-d3ca-01",
+          "length": 122,
+          "number": 1,
+          "question": "Mestre Foi um momento de clareza, mas como manter essa compreensão quando a rotina exige que eu volte a ser essa 'pessoa'?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o 'eu' é uma ficção?",
+          "hook_imperative": "desmascare sua identidade",
+          "hook_provocative": "a solidez do falso 'eu'",
+          "id": "0018-d3ca-02",
+          "length": 101,
+          "number": 2,
+          "question": "Se o 'eu' é uma ficção, por que ele parece tão real e sólido quando preciso lidar com meus problemas?"
+        }
+      ],
+      "persona_hash": "d3caf4120bb9"
+    },
+    {
+      "author_name": "Eliane",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "dá para apagar o passado?",
+          "hook_imperative": "quebre o seu padrão",
+          "hook_provocative": "você é um programa vivo",
+          "id": "0018-18b5-01",
+          "length": 105,
+          "number": 1,
+          "question": "Marcos como se livrar dessa programação antiga que me faz ver a vida como um campo de batalha para 'mim'?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "por que tememos o agora?",
+          "hook_imperative": "fique no momento presente",
+          "hook_provocative": "o futuro é uma ilusão",
+          "id": "0018-18b5-02",
+          "length": 82,
+          "number": 2,
+          "question": "Por que insisto em olhar para o futuro se tudo o que realmente acontece é o agora?"
+        }
+      ],
+      "persona_hash": "18b53ca9613c"
+    },
+    {
+      "author_name": "Amanda",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o tempo é apenas uma régua?",
+          "hook_imperative": "esqueça o relógio",
+          "hook_provocative": "o progresso é uma mentira",
+          "id": "0018-a011-01",
+          "length": 107,
+          "number": 1,
+          "question": " já não é de hoje que sinto que o tempo não é real, mas como viver sem essa régua para medir meu progresso?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "identidade é necessária?",
+          "hook_imperative": "liberte-se da sua imagem",
+          "hook_provocative": "o respeito que o ego exige",
+          "id": "0018-a011-02",
+          "length": 103,
+          "number": 2,
+          "question": "Como abandonar a ideia de ser alguém, se o mundo exige que eu tenha uma identidade para ser respeitada?"
+        }
+      ],
+      "persona_hash": "a011d2561b7a"
+    },
+    {
+      "author_name": "Emily",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o que é autoconhecimento?",
+          "hook_imperative": "busque a verdade nua",
+          "hook_provocative": "religião é apenas conceito",
+          "id": "0018-ec2f-01",
+          "length": 112,
+          "number": 1,
+          "question": "Gualberto por favor me explica como posso descobrir quem sou sem recorrer a conceitos religiosos que já conheço?"
+        },
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "o pensamento é confiável?",
+          "hook_imperative": "observe sem rotular",
+          "hook_provocative": "sua mente mente para você",
+          "id": "0018-ec2f-02",
+          "length": 82,
+          "number": 2,
+          "question": "Como aprender sobre si mesmo sem que o pensamento distorça tudo o que eu descubro?"
+        }
+      ],
+      "persona_hash": "ec2f6e07efe5"
+    },
+    {
+      "author_name": "Aline",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "conhecimento traz felicidade?",
+          "hook_imperative": "desaprenda o desnecessário",
+          "hook_provocative": "você sabe tudo e sofre",
+          "id": "0018-6ddd-01",
+          "length": 116,
+          "number": 1,
+          "question": "Mestre Realmente precisamos desse tanto de conhecimento, se apesar de tudo, continuamos sofrendo como seres humanos?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "dá para viver diferente?",
+          "hook_imperative": "siga a sua própria verdade",
+          "hook_provocative": "a ditadura do comum",
+          "id": "0018-6ddd-02",
+          "length": 98,
+          "number": 2,
+          "question": "Como romper com essa ignorância coletiva se vivo cercada por pessoas que sustentam o mesmo modelo?"
+        }
+      ],
+      "persona_hash": "6ddd2b097599"
+    },
+    {
+      "author_name": "Zélia",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que fazer com a dor?",
+          "hook_imperative": "não reprima sua raiva",
+          "hook_provocative": "sentir não é o problema",
+          "id": "0018-cd5f-01",
+          "length": 96,
+          "number": 1,
+          "question": "Mestre como diz o ditado: o difícil não é sentir, é saber o que fazer com esse turbilhão, certo?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "emoção é refém ou fato?",
+          "hook_imperative": "acolha sem se identificar",
+          "hook_provocative": "sua separação gera dor",
+          "id": "0018-cd5f-02",
+          "length": 105,
+          "number": 2,
+          "question": "Se a separação causa sofrimento, como acolho o que sinto sem me tornar refém das minhas próprias emoções?"
+        }
+      ],
+      "persona_hash": "cd5f7ea95cae"
+    },
+    {
+      "author_name": "Rosana",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o que é inteligência real?",
+          "hook_imperative": "seja inteligente com a vida",
+          "hook_provocative": "sua inteligência é inútil",
+          "id": "0018-de33-01",
+          "length": 100,
+          "number": 1,
+          "question": "Mestre Qual sentido de medir a inteligência se ela não serve para resolver o conflito humano básico?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "a inteligência do ser?",
+          "hook_imperative": "conecte-se com a existência",
+          "hook_provocative": "além da habilidade técnica",
+          "id": "0018-de33-02",
+          "length": 81,
+          "number": 2,
+          "question": "Como acessar essa inteligência que não é técnica, mas que entende a própria vida?"
+        }
+      ],
+      "persona_hash": "de336ef44b8e"
+    },
+    {
+      "author_name": "Helena",
+      "items": [
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "o medo é apenas mental?",
+          "hook_imperative": "perceba a raiz do medo",
+          "hook_provocative": "seu medo é uma farsa",
+          "id": "0018-dd72-01",
+          "length": 96,
+          "number": 1,
+          "question": "Mestre até parece que o medo é algo real, mas como convencer meu corpo de que não preciso temer?"
+        },
+        {
+          "domains": [
+            "relacional-familiar"
+          ],
+          "hook_curiosity": "como amar sem apegar?",
+          "hook_imperative": "liberte quem você ama",
+          "hook_provocative": "o amor que é dependência",
+          "id": "0018-dd72-02",
+          "length": 77,
+          "number": 2,
+          "question": "Se o apego sustenta o medo, como amo as coisas da vida sem me prender a elas?"
+        }
+      ],
+      "persona_hash": "dd7209bde23b"
+    },
+    {
+      "author_name": "Sérgio",
+      "items": [
+        {
+          "domains": [
+            "espiritual-praticante"
+          ],
+          "hook_curiosity": "meditação com julgamento?",
+          "hook_imperative": "observe o seu observador",
+          "hook_provocative": "seu observador é uma fraude",
+          "id": "0018-3ebf-01",
+          "length": 98,
+          "number": 1,
+          "question": "Mestre Como tentar meditar se o meu observador insiste em aparecer para avaliar se estou indo bem?"
+        },
+        {
+          "domains": [
+            "individual-existencial"
+          ],
+          "hook_curiosity": "como aceitar o presente?",
+          "hook_imperative": "renda-se à realidade",
+          "hook_provocative": "seu desejo destrói o agora",
+          "id": "0018-3ebf-02",
+          "length": 70,
+          "number": 2,
+          "question": "Como olhar o momento sem o desejo de que ele fosse diferente do que é?"
+        }
+      ],
+      "persona_hash": "3ebf7a23cbe8"
+    }
+  ],
+  "source_file": "cenario_0018.md",
+  "template_id": "007.md"
+}
